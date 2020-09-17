@@ -8,7 +8,7 @@
 ### Where is all the content ?
 
 - It is under the direcory [content/docs](content/docs)
-- All files are markdown .md
+- All files are markdown (.md) format
 
 ### Where are all the images ?
 
