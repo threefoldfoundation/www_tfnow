@@ -1,0 +1,15 @@
+---
+description: ''
+sidebar: 'docs'
+prev: '/docs/dmcustomers/'
+next: '/docs/gitea/'
+---
+
+# ThreeFold Grid 
+
+
+![](https://now10.threefold.io/cloud2.png)
+
+## Too much to fit here ! Why not see the link below ?
+
+- [ThreeFold Decentralized Grid](https://cloud.threefold.io)
