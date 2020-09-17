@@ -13,7 +13,7 @@
 ### Where are all the images ?
 
 - Please put all the images under this directory [static](static)
-- To use an image in the markdown file, you can simply call it as below,
+- To use an image in the markdown file, you can simply call it as an example below,
 ```
 ![](https://now10.threefold.io/crystaltwin.png)
 
