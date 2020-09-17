@@ -11,7 +11,7 @@ next: '/docs/serverless/'
 
 ## How it Works ?
 
-- Give some details
+- Give some details here
 
 ![](https://now10.threefold.io/commento2.png)
 
