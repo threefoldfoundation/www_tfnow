@@ -7,4 +7,4 @@ next: '/docs/harmony/'
 
 # Dash
 
-In an ideal world two two users would connect direct. No need to make this connection go through any infrastructrure that is not inline to make the connection and this can be done by creating a so called peer to peer video conferencing solution.
+Dash is an open source peer-to-peer cryptocurrency with a strong focus on the payments industry. Dash offers a form of money that is portable, inexpensive, divisible and fast. It can be spent securely both online and in-person with only minimal transaction fees. Based on the Bitcoin project, Dash aims to be the most user-friendly and scalable payments system in the world.
