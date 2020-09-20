@@ -9,5 +9,6 @@ https*
 http*
 "*
 docshttp*
-.cache/
+.cache/*
 node_modules/
+/.cache
