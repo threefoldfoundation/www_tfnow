@@ -9,7 +9,7 @@ next: '/docs/gridsome/'
 
 Software is eating the world. Unfortunately, most businesses still can't deliver software successfully, much less do so at the pace needed to stay competitive. For those who wish to keep up, let alone lead, software delivery & operation must be radically simplified.
 
-![](https://now10.threefold.io/serverless.png)
+![](./serverless.png)
 
 ## What is it ?
 

@@ -4,6 +4,14 @@ const c3 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/
 
 export default [
   {
+    path: "/docs/serverless/serverless/",
+    component: c1
+  },
+  {
+    path: "/docs/digibyte/digibyte/",
+    component: c1
+  },
+  {
     path: "/docs/commento/commento/",
     component: c1
   },
@@ -44,10 +52,6 @@ export default [
     component: c1
   },
   {
-    path: "/docs/serverless/",
-    component: c1
-  },
-  {
     path: "/docs/harmony/",
     component: c1
   },
@@ -61,10 +65,6 @@ export default [
   },
   {
     path: "/docs/dash/",
-    component: c1
-  },
-  {
-    path: "/docs/digibyte/",
     component: c1
   },
   {
