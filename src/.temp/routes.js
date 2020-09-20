@@ -4,6 +4,10 @@ const c3 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/
 
 export default [
   {
+    path: "/docs/commento/commento/",
+    component: c1
+  },
+  {
     path: "/docs/zeroci/",
     component: c1
   },
@@ -25,6 +29,10 @@ export default [
   },
   {
     path: "/docs/virtual-spaces/",
+    component: c1
+  },
+  {
+    path: "/img/readme/",
     component: c1
   },
   {
@@ -81,10 +89,6 @@ export default [
   },
   {
     path: "/docs/blog-publisher/",
-    component: c1
-  },
-  {
-    path: "/docs/commento/",
     component: c1
   },
   {

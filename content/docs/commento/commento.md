@@ -7,13 +7,13 @@ next: '/docs/serverless/'
 
 # Commento
 
-![](https://now10.threefold.io/commento.png)
+![](./commento.png)
 
 ## How it Works ?
 
 - Give some details here
 
-![](https://now10.threefold.io/commento2.png)
+![](./commento2.png)
 
 ## What problems it solves ?
 
