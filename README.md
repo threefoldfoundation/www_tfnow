@@ -9,6 +9,14 @@
 ### to get started
 
 - install npm & yarn
+
+To install yarn on ubuntu,
+
+```
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+apt-get -y update && apt install yarn
+```
 - git clone this repo
 - go into the repo and run ```install_gridsome.sh``` if not done yet
 - go into the repo and run ```install.sh``` which will make sure you have the node packages in your repo
