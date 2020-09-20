@@ -33,18 +33,18 @@ siteUrl: (process.env.SITE_URL ? process.env.SITE_URL : 'https://now10.threefold
           {
             title: 'Decentralized We',
             items: [
-	      '/docs/video-conf/',
-	      '/docs/virtual-spaces/',
-	      '/docs/video-sharing/',
-	      '/docs/website-publisher/',
-	      '/docs/wiki-publisher/',
-	      '/docs/blog-publisher/',
+            '/docs/video-conf/',
+            '/docs/virtual-spaces/',
+            '/docs/video-sharing/',
+            '/docs/website-publisher/',
+            '/docs/wiki-publisher/',
+            '/docs/blog-publisher/',
             ]
           },
           {
             title: 'Decentralized Me',
             items: [
-	      '/docs/digitalme/',
+	            '/docs/digitalme/',
               '/docs/crystaltwin/',				                  
             ]
            },
@@ -53,8 +53,8 @@ siteUrl: (process.env.SITE_URL ? process.env.SITE_URL : 'https://now10.threefold
             items: [
               '/docs/dmcollab/',
               '/docs/dmcircles/',
-	      '/docs/dmoffice/',
-	      '/docs/dmcustomers/',
+	            '/docs/dmoffice/',
+	            '/docs/dmcustomers/',
             ]
            },
            {
@@ -68,9 +68,9 @@ siteUrl: (process.env.SITE_URL ? process.env.SITE_URL : 'https://now10.threefold
             items: [
               '/docs/gitea/',
               '/docs/zeroci/',	
-	      '/docs/commento/',
+	            '/docs/commento/',
               '/docs/serverless/',	
-	      '/docs/gridsome/',
+	            '/docs/gridsome/',
             ]
            },
            {
@@ -78,7 +78,7 @@ siteUrl: (process.env.SITE_URL ? process.env.SITE_URL : 'https://now10.threefold
             items: [
               '/docs/digibyte/',
               '/docs/dash/',	
-	      '/docs/harmony/',
+	            '/docs/harmony/',
               '/docs/tomochain/',	
             ]
            }          

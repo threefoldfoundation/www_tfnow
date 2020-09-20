@@ -1,5 +1,5 @@
-import plugin_gridsome_plugin_tailwindcss_6 from "/root/tf-now/node_modules/gridsome-plugin-tailwindcss/gridsome.client.js"
-import plugin_gridsome_plugin_google_analytics_7 from "/root/tf-now/node_modules/@gridsome/plugin-google-analytics/gridsome.client.js"
+import plugin_gridsome_plugin_tailwindcss_6 from "/Users/despiegk/code/github/threefoldfoundation/wiki_2020/node_modules/gridsome-plugin-tailwindcss/gridsome.client.js"
+import plugin_gridsome_plugin_google_analytics_7 from "/Users/despiegk/code/github/threefoldfoundation/wiki_2020/node_modules/@gridsome/plugin-google-analytics/gridsome.client.js"
 
 export default [
   {

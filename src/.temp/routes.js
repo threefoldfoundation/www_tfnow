@@ -1,6 +1,6 @@
-const c1 = () => import(/* webpackChunkName: "page--src--templates--markdown-page-vue" */ "/root/tf-now/src/templates/MarkdownPage.vue")
-const c2 = () => import(/* webpackChunkName: "page--src--pages--404-vue" */ "/root/tf-now/src/pages/404.vue")
-const c3 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/root/tf-now/src/pages/Index.vue")
+const c1 = () => import(/* webpackChunkName: "page--src--templates--markdown-page-vue" */ "/Users/despiegk/code/github/threefoldfoundation/wiki_2020/src/templates/MarkdownPage.vue")
+const c2 = () => import(/* webpackChunkName: "page--src--pages--404-vue" */ "/Users/despiegk/code/github/threefoldfoundation/wiki_2020/src/pages/404.vue")
+const c3 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/despiegk/code/github/threefoldfoundation/wiki_2020/src/pages/Index.vue")
 
 export default [
   {
