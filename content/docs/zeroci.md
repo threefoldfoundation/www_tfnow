@@ -8,7 +8,7 @@ next: '/docs/commento/'
 # ZeroCI
 
 
-![](https://now10.threefold.io/cont_integr.png)
+![](./cont_integr.png)
 
 ## What is ZeroCI ?
 
@@ -18,7 +18,7 @@ ZeroCI is continuous integration system useful for all languages but has some sp
 
 (Note: version control systems supported are Github and Gitea)
 
-![](https://now10.threefold.io/zeroci.png)
+![](./zeroci.png)
 
 ## How to Deploy ?
 

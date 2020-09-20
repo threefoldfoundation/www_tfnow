@@ -8,7 +8,7 @@ next: '/docs/gitea/'
 # ThreeFold Grid 
 
 
-![](https://now10.threefold.io/cloud2.png)
+![](./cloud2.png)
 
 ## Too much to fit here ! Why not see the link below ?
 

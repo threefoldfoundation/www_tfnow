@@ -7,7 +7,7 @@ next: '/docs/dmcustomers/'
 
 # DigitalMe Office
 
-![](https://now10.threefold.io/office_word.png)
+![](./office_word.png)
 
 ## A brief overview of "Office"
 

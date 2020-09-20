@@ -9,7 +9,7 @@
             class="flex items-center text-ui-primary"
             title="Home"
           >
-          <img src="https://now10.threefold.io/logo.png" style="width:30px;height:30px;">
+          <img src="./logo.png" style="width:30px;height:30px;">
           <!--  <Logo :width="40" class="text-ui-primary" /> -->
             <span class="hidden ml-2 text-xl font-black tracking-tighter uppercase sm:block">
               {{ meta.siteName }}

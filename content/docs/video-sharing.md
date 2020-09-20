@@ -7,7 +7,7 @@ next: '/docs/website-publisher/'
 
 # Video Sharing
 
-![](https://now10.threefold.io/peertive_window.png)
+![](./peertive_window.png)
 
 ##  What is a video sharing platform?
 

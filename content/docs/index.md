@@ -12,7 +12,7 @@ From publishing to video hosting, communication to project management, ThreeFold
 
 **The internet of tomorrow, available today — this is ThreeFold Now.**  
 
-![](https://now10.threefold.io/demo_site_overview.png)
+![](./demo_site_overview.png)
 
 ## Why It Matters
 

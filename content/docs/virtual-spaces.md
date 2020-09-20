@@ -11,7 +11,7 @@ next: '/docs/video-sharing/'
 
 ThreeFold Foundation expects that online collaboration in virtual spaces will take increase in popularity and tools to creates interesting virtual spaces will help to inspire us to enjoy virtual meetup experiences and collaborate and co-create.
 
-![](https://now10.threefold.io/hubs.png)
+![](./hubs.png)
 
 ## Do you know about Mozilla Hubs ?
 

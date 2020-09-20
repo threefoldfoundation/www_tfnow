@@ -7,13 +7,13 @@ next: '/docs/wiki-publisher/'
 
 # Website Publisher
 
-![](https://now10.threefold.io/website_browser.png)
+![](./website_browser.png)
 
 ## How it works ?
 
 For website creating and management there are may options available in the market.  From total end-to-end solutions  like squarespace to do-it-yourself and select the tools and software to run your website.  ThreeFold has created a tool that allows for deployment and website management with version control, automatic update and staging facilities.
 
-![](https://now10.threefold.io/web_site_deployment.png)
+![](./web_site_deployment.png)
 
 ## What you need to do ?
 

@@ -7,13 +7,13 @@ next: '/docs/digitalme/'
 
 # Blog Publisher
 
-![](https://now10.threefold.io/blog_browser.png)
+![](./blog_browser.png)
 
 ## How it works ?
 
 For blog creation and management there are may options available in the market.  From total end-to-end solutions like squarespace to do-it-yourself and select the tools and software to run your blog.  ThreeFold has created a tool that allows for deployment and blog management with version control, automatic update and staging facilities.
 
-![](https://now10.threefold.io/blog_capture.png)
+![](./blog_capture.png)
 
 ## What you need to do ?
 

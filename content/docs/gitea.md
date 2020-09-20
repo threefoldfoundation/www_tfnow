@@ -7,7 +7,7 @@ next: '/docs/zeroci/'
 
 # Gitea
 
-![](https://now10.threefold.io/gitea.png)
+![](./gitea.png)
 
 ## What is gitea ?
 

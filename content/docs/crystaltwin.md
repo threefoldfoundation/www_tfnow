@@ -7,7 +7,7 @@ next: '/docs/dmcollab/'
 
 # Crystal Twin
 
-![](https://now10.threefold.io/crystaltwin.png)
+![](./crystaltwin.png)
 
 -Your personal Digital Avatar
 

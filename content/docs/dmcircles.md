@@ -7,7 +7,7 @@ next: '/docs/dmoffice/'
 
 # DigitalMe Circles
 
-![](https://now10.threefold.io/taiga_frontpage.png)
+![](./taiga_frontpage.png)
 
 ## Are you familiar with Agile ? 
 

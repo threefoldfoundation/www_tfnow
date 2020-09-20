@@ -3,7 +3,7 @@
 - Any change to the content here should auto-deploy
 - All changes to the content can be seen under this link
 
-[https://now10.threefold.io/docs](https://now10.threefold.io/docs)
+[./docs](./docs)
 
 
 ### to get started
@@ -25,7 +25,7 @@
 
 ```
 #thats  not how we should call images !
-![](https://now10.threefold.io/crystaltwin.png)
+![](./crystaltwin.png)
 
 siteurl/image.png
 ```

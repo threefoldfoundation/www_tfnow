@@ -7,7 +7,7 @@ next: '/docs/dmcircles/'
 
 # DigitalMe Collab
 
-![](https://now10.threefold.io/what_is_cryptpad.png)
+![](./what_is_cryptpad.png)
 
 ## Why cryptpad ?
 
@@ -21,38 +21,38 @@ The ThreeFold team uses it for internal documents and collaboration, and now so 
 
 This is an alternative to Word and Google Docs.  Is allows to create documents and collaborate with others to create documents.  Cryptpad supports multi user access to documents for co-editing and collaborations.  The sharing facility uses unique access keys allowing other to see the content unencrypted
 
-![](https://now10.threefold.io/rich_text_editor.png)
+![](./rich_text_editor.png)
 
 ## A code editor
 
 The code editor 
 
-![](https://now10.threefold.io/code_editor.png)
+![](./code_editor.png)
 
 ## A presentation creation tool
 
-![](https://now10.threefold.io/presentation.png)
+![](./presentation.png)
 
 ## A spreadsheet creator and editor
 
-![](https://now10.threefold.io/spreadsheet.png)
+![](./spreadsheet.png)
 
 ## A poll creation tool
 
-![](https://now10.threefold.io/poll.png)
+![](./poll.png)
 
 ## A Kanban project management tool
 
-![](https://now10.threefold.io/kanban.png)
+![](./kanban.png)
 
 ## A Whiteboard tool
 
-![](https://now10.threefold.io/whiteboard.png)
+![](./whiteboard.png)
 
 ## An encrypted drive to store files
 
-![](https://now10.threefold.io/drive.png)
+![](./drive.png)
 
-![](https://now10.threefold.io/cryptpad0.png)
+![](./cryptpad0.png)
 
 Support cryptpad at https://cryptpad.fr/index.html

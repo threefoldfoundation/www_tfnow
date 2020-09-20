@@ -7,13 +7,13 @@ next: '/docs/blog-publisher/'
 
 # Wiki Publisher
 
-![](https://now10.threefold.io/wiki_browser.png)
+![](./wiki_browser.png)
 
 ## How it works ?
 
 For Wiki creation and management there are may options available in the market.  From total end-to-end solutions.  ThreeFold has created a very simple tool that allows for deployment and Wiki management with version control, automatic update and staging facilities.
 
-![](https://now10.threefold.io/wiki_deployment.png)
+![](./wiki_deployment.png)
 
 
 ## What you need to do?

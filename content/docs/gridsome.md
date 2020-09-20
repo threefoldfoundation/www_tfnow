@@ -9,16 +9,16 @@ next: '/docs/digibyte/'
 
 - A Jamstack framework
 
-![](https://now10.threefold.io/gridsome3.png)
+![](./gridsome3.png)
 
 
 ## How it Works ?
 
 - More info see https://gridsome.org/
 
-![](https://now10.threefold.io/gridsome.png)
+![](./gridsome.png)
 
-![](https://now10.threefold.io/gridsome2.png)
+![](./gridsome2.png)
 
 ## Features
 

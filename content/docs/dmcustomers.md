@@ -7,11 +7,11 @@ next: '/docs/tfgrid/'
 
 # DigitalMe Customers
 
-![](https://now10.threefold.io/orocrm_1.png)
+![](./orocrm_1.png)
 
 ## Did you know about Orocrm ?
 
-![](https://now10.threefold.io/orocrm_screenshot1.png)
+![](./orocrm_screenshot1.png)
 
 
 > This software is supported & created by https://oroinc.com/ <BR>
@@ -49,6 +49,6 @@ create widget which does following
 
 > PS: We are planning to ask the OroCMR team to be able to pay for license fees using TFT as part of the wizard.
 
-![](https://now10.threefold.io/oro_crm.png)
+![](./oro_crm.png)
 
 

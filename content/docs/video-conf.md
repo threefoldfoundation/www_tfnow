@@ -6,7 +6,7 @@ next: '/docs/virtual-spaces/'
 
 # Video Conferencing
 
-![](https://now10.threefold.io/connect.png)
+![](./connect.png)
 
 ## Quick Background
 
@@ -20,20 +20,20 @@ When zoom became a very popular (free of charge) video conference solution they 
 
 This examples is for 2 user of the zoom service with a free account based in Salzburg and Vienna.
 
-![](https://now10.threefold.io/zoom_traffic.png)
+![](./zoom_traffic.png)
 
 ## How our solution works and what makes it different ?
 
 In an ideal world two two users would connect direct.  No need to make this connection go through any infrastructrure that is not inline to make the connection and this can be done by creating a so called peer to peer video conferencing solution.
 
-![](https://now10.threefold.io/peer2peer_traffic.png)
+![](./peer2peer_traffic.png)
 
 Such a peer-to-peer video conferencing solution has been created and exists on the TF Grid.  It has been designed and built by the ThreeFold Tech team and will have a one click deployment option.  
 
 The solution is called **DigitalWE room**.
 
 <!--
-![](https://now10.threefold.io/connect.png)
+![](./connect.png)
 -->
 
 <!-- ### Deploy
