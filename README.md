@@ -5,6 +5,14 @@
 
 [https://now10.threefold.io/docs](https://now10.threefold.io/docs)
 
+
+### to get started
+
+- install npm & yarn
+- git clone this repo
+- go into the repo and run ```install_gridsome.sh``` if not done yet
+- go into the repo and run ```install.sh``` which will make sure you have the node packages in your repo
+
 ### Where is all the content ?
 
 - It is under the direcory [content/docs](content/docs)
@@ -14,7 +22,9 @@
 
 - Please put all the images under this directory [static](static)
 - To use an image in the markdown file, you can simply call it as an example below,
+
 ```
+#thats  not how we should call images !
 ![](https://now10.threefold.io/crystaltwin.png)
 
 siteurl/image.png
@@ -35,6 +45,9 @@ next: '/docs/digitalme/'
 ![https://docc-theme.netlify.app](https://docc-theme.netlify.app)
 
 
+to install a new version of this
 
-
+```
+gridsome create threefold-now https://github.com/mrcrmn/docc
+```
 
