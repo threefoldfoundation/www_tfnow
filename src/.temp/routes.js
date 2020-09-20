@@ -12,7 +12,11 @@ export default [
     component: c1
   },
   {
-    path: "/docs/dmoffice/dmcollab/",
+    path: "/docs/dmcollab/dmcollab/",
+    component: c1
+  },
+  {
+    path: "/docs/dmoffice/dmoffice/",
     component: c1
   },
   {
@@ -81,10 +85,6 @@ export default [
   },
   {
     path: "/docs/dmcustomers/",
-    component: c1
-  },
-  {
-    path: "/docs/dmoffice/",
     component: c1
   },
   {
