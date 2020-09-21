@@ -5,7 +5,7 @@ prev: '/docs/blog-publisher/'
 next: '/docs/crystaltwin/'
 ---
 
-# Digital Me
+# DigitalMe
 
 ![](./img/me.png)
 

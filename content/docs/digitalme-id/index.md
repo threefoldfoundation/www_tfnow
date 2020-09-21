@@ -7,7 +7,7 @@ next: '/docs/dmcollab/'
 
 
 
-# Digitalme ID
+# DigitalMe ID
 
 ![](./img/identity.png)
 
