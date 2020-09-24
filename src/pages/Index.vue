@@ -14,13 +14,7 @@
         <p class="text-xl font-medium text-center">
           Autonomous and decentralized storage and compute owned by everyone, everywhere !
           <br>
-          <strong class="text-ui-primary">Got a minute?</strong>
         </p>
-
-        <div class="py-4">
-          <code class="block px-4 py-1 select-all bg-ui-border text-ui-typo">import from threefold_now</code>
-        </div>
-
         <div class="flex justify-center mt-8">
           <g-link
             to="/docs/"
