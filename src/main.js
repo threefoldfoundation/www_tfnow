@@ -12,6 +12,11 @@ export default function (Vue, { router, head, isClient }) {
       name: 'og:url',
       content: process.env.GRIDSOME_BASE_PATH + to.path,
     })
+    console.log(to.path)
+    if (to.path == "/" || to.path == ""){
+      next("/docs/")
+    }
     next()
+
   })
 }

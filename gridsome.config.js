@@ -25,9 +25,15 @@ module.exports = {
         name: 'docs',
         sections: [
           {
-            title: 'Getting Started',
+            title: 'Home',
             items: [
               '/docs/',
+            ]
+          },
+          {
+            title: 'Getting Started',
+            items: [
+              '/docs/getting-started/',
             ]
           },
           {
