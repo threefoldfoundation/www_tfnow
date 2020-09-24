@@ -2,7 +2,7 @@
 description: ''
 sidebar: 'docs'
 next: '/docs/video-conf/'
-prev: '/docs/getting-started/'
+prev: '/docs/'
 ---
 
 # Introduction

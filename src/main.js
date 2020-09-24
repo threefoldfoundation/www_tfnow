@@ -2,21 +2,19 @@
 // The Client API can be used here. Learn more: gridsome.org/docs/client-api
 import DefaultLayout from '~/layouts/Default.vue'
 
-export default function (Vue, { router, head, isClient }) {
-  // Set default layout as a global component
-  Vue.component('Layout', DefaultLayout)
+export default function(Vue, { router, head, isClient }) {
+    // Set default layout as a global component
+    Vue.component('Layout', DefaultLayout)
 
-  router.beforeEach((to, _from, next) => {
-    head.meta.push({
-      key: 'og:url',
-      name: 'og:url',
-      content: process.env.GRIDSOME_BASE_PATH + to.path,
+    router.beforeEach((to, _from, next) => {
+        head.meta.push({
+            key: 'og:url',
+            name: 'og:url',
+            content: process.env.GRIDSOME_BASE_PATH + to.path,
+        })
+        next()
+        if (to.path == "/" || to.path == "") {
+            next("/docs/")
+        }
     })
-    console.log(to.path)
-    if (to.path == "/" || to.path == ""){
-      next("/docs/")
-    }
-    next()
-
-  })
 }
