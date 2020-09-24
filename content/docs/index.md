@@ -6,7 +6,7 @@ next: '/docs/getting-started/'
 
 # THREEFOLD
 
-![](./index/img/tf_home.jpg)
+![](./index/img/logo_home.png)
 
 # Build + Deploy + Run = ONE Click
 
