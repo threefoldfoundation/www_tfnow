@@ -29,7 +29,7 @@ Our mission with Matic Network is to expand its community-led Blockchain across 
 
 ## Get started with Matic
 
-Learn how to deploy a Matic validator node in a few steps with the 3Bot SDK on this  **[Matic Tutorial](https://forum.threefold.io/t/deploying-a-matic-node-with-a-few-clicks/457)**
+Coming soon:
+You will be able to soon deploy a Matic validator node via the **ThreeFold NOW Marketplace**'s dashboard in a few clicks.
 
-For more info, feel free to reach out to us on **[ThreeFold Forum](https://forum.threefold.io/)**
- 
+Stay tuned at **[Threefold NOW Marketplace](https://marketplace.threefold.io)**.

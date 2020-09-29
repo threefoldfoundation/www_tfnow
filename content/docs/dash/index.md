@@ -31,6 +31,7 @@ Dash enthusiasts, developers, and non-developers use ThreeFold and its 3bot admi
 
 ## Get started with Dash
 
-Learn how to spin up your Dash Full nodes and Master nodes on ThreeFold's P2P cloud in a few clicks at this **[Dash Tutorial](https://forum.threefold.io/t/deploy-a-dash-node-in-5-steps-on-the-threefold-grid/509)**
+Coming soon:
+You will be able to soon deploy Dash Full nodes and Master nodes via the **ThreeFold NOW Marketplace**'s dashboard in a few clicks.
 
-For more info, reach out to us on **[ThreeFold Forum](https://forum.threefold.io/)**
+Stay tuned at **[Threefold NOW Marketplace](https://marketplace.threefold.io)**.

@@ -38,7 +38,7 @@ Running a DigiByte node on ThreeFold has the following benefits:
 
 ## Get Started 
 
-Deploy your own DigiByte full Node in a few steps directly from the web using the [__hosted 3bot__](deploy3bot.grid.tf) or the local 3Bot (3Bot SDK). 
+Coming soon:
+You will be able to soon deploy your own DigiByte full Node via the **ThreeFold NOW Marketplace**'s dashboard in a few clicks.
 
-For more information on how to get started on running your own DigiByte node, visit our [__DigiByte Node Deployment Tutorial at Threefold Forum__](https://www.dgbwiki.com/index.php?title=Port_forwarding_process_for_your_DigiByte_node).
-
+Stay tuned at **[Threefold NOW Marketplace](https://marketplace.threefold.io)**.
