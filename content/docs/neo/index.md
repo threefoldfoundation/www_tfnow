@@ -27,6 +27,7 @@ With the ThreeFold P2P cloud as a decentralized IT infrastructure, NEO dApp deve
 
 ## Get Started with NEO 
 
-Learn how to deploy NEO nodes in a few clicks with this **[NEO Tutorial](https://forum.threefold.io/t/how-to-deploy-a-neo-node-in-5-steps-on-threefold-grid/549)**
+Coming soon:
+You will be able to soon deploy NEO nodes via the **ThreeFold NOW Marketplace**'s dashboard in a few clicks.
 
-For more info, reach out to us on **[ThreeFold Forum](https://forum.threefold.io/)**
+Stay tuned at **[Threefold NOW Marketplace](https://marketplace.threefold.io)**.

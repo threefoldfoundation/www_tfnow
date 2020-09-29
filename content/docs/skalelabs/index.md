@@ -28,9 +28,8 @@ SKALE and ThreeFold collaboration focuses on solving scalability and decentraliz
 
 ## Get Started
 
-Run Skale Validator nodes in a few clicks on the ThreeFold P2P cloud. 
 
-Use Skale’s Protocol to build scalable Ethereum dApps using the ThreeFold P2P cloud. Read the **[ThreeFold Manual](manual.threefold.io)**, and install the 3Bot SDK.
+Coming soon:
+You will be able to soon run Skale Validator nodes via the **ThreeFold NOW Marketplace**'s dashboard in a few clicks.
 
-For more info, feel free to reach out to us on **[ThreeFold Forum](https://forum.threefold.io/)**
- 
+Stay tuned at **[Threefold NOW Marketplace](https://marketplace.threefold.io)**.

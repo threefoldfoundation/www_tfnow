@@ -33,10 +33,6 @@ TomoChain provides a broad array of developers tools and a whole suite of Blockc
 
 ## Get Started
 
-Learn how to deploy a TomoChain Masternode in a few clicks on the ThreeFold P2P cloud by following this **[Tomochain Tutorial](https://forum.threefold.io/t/setting-up-a-tomochain-node-in-5-steps/389)**
+You will be able to soon deploy a TomoChain Masternode via the **ThreeFold NOW Marketplace**'s dashboard in a few clicks.
 
-Coming soon: Run a TomoChain DEX in a few steps.
-
-Build dApps on top of TomoChain using the ThreeFold P2P cloud and developer tools. Read the **[ThreeFold Manual](manual.threefold.io)**, and install the 3Bot SDK.
-
-For more info, reach out to us on **[ThreeFold Forum](https://forum.threefold.io/)**
+Stay tuned at **[Threefold NOW Marketplace](https://marketplace.threefold.io)**.

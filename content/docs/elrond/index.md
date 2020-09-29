@@ -28,8 +28,7 @@ Elrond node operators help secure, maintain, and expand the Elrond Blockchain, a
 
 ## Get Started with Elrond
 
-Learn how to deploy and run your own Elrond validator node in a few steps using 3bot at this **[Elrond Tutorial](https://forum.threefold.io/t/deploying-an-elrond-node-on-the-threefold-grid-in-5-steps/560)**
+Coming soon:
+You will be able to soon deploynd run your own Elrond validator node via the **ThreeFold NOW Marketplace**'s dashboard in a few clicks.
 
-Build and run dApps on the Elrond Blockchain using ThreeFold’s P2P compute, and storage: read the **[ThreeFold Manual](manual.threefold.io)**, and install the SDK.
-
-For more info, reach out to us on **[ThreeFold Forum](https://forum.threefold.io/)**
+Stay tuned at **[Threefold NOW Marketplace](https://marketplace.threefold.io)**.

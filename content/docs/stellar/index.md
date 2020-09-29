@@ -7,4 +7,4 @@ next: '/docs/tomochain/'
 
 # Stellar
 
->todo
+Coming soon...

@@ -33,6 +33,7 @@ ThreeFold's compute, storage, and networking capacities empower them to decentra
 
 ## Get started
 
-Coming soon: a tutorial on how to deploy WaykiChain nodes on The ThreeFold P2P cloud in a few steps using the 3Bot.
-For more info, reach out to us on **[ThreeFold Forum](https://forum.threefold.io/)**
+Coming soon:
+You will be able to soon deploy WaykiChain nodes via the **ThreeFold NOW Marketplace**'s dashboard in a few clicks.
 
+Stay tuned at **[Threefold NOW Marketplace](https://marketplace.threefold.io)**.
