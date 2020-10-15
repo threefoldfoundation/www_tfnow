@@ -1,22 +1,22 @@
 {
-  "publicPath": "/wiki10/",
+  "publicPath": "/wiki2020/",
   "all": [
     "assets/css/0.styles.7945bf97.css",
-    "assets/js/app.f1271a38.js",
+    "assets/js/app.998f2853.js",
     "assets/js/page--src--pages--404-vue.9a92e70d.js",
     "assets/js/page--src--pages--index-vue.d53757b7.js",
     "assets/js/page--src--templates--markdown-page-vue.6f1a603e.js",
-    "assets/js/search.a16fd8da.js"
+    "assets/js/search.096b034c.js"
   ],
   "initial": [
     "assets/css/0.styles.7945bf97.css",
-    "assets/js/app.f1271a38.js"
+    "assets/js/app.998f2853.js"
   ],
   "async": [
     "assets/js/page--src--pages--404-vue.9a92e70d.js",
     "assets/js/page--src--pages--index-vue.d53757b7.js",
     "assets/js/page--src--templates--markdown-page-vue.6f1a603e.js",
-    "assets/js/search.a16fd8da.js"
+    "assets/js/search.096b034c.js"
   ],
   "modules": {
     "22621636": [
