@@ -2,21 +2,21 @@
   "publicPath": "/wiki2020_stag/",
   "all": [
     "assets/css/0.styles.7945bf97.css",
-    "assets/js/app.e21cfa0c.js",
+    "assets/js/app.c47b59a1.js",
     "assets/js/page--src--pages--404-vue.9a92e70d.js",
     "assets/js/page--src--pages--index-vue.d53757b7.js",
     "assets/js/page--src--templates--markdown-page-vue.6f1a603e.js",
-    "assets/js/search.0c85456e.js"
+    "assets/js/search.80fb671f.js"
   ],
   "initial": [
     "assets/css/0.styles.7945bf97.css",
-    "assets/js/app.e21cfa0c.js"
+    "assets/js/app.c47b59a1.js"
   ],
   "async": [
     "assets/js/page--src--pages--404-vue.9a92e70d.js",
     "assets/js/page--src--pages--index-vue.d53757b7.js",
     "assets/js/page--src--templates--markdown-page-vue.6f1a603e.js",
-    "assets/js/search.0c85456e.js"
+    "assets/js/search.80fb671f.js"
   ],
   "modules": {
     "22621636": [
