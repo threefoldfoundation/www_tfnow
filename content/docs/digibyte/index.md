@@ -5,7 +5,7 @@ prev: '/docs/dash/'
 next: '/docs/elrond/'
 ---
 
-# Digibyte on ThreeFold
+# Digibyte
 
 ![](./img/digibyte.png)
 

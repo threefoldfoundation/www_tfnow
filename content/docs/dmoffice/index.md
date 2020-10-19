@@ -5,7 +5,7 @@ prev: '/docs/dmcircles/'
 next: '/docs/dmcustomers/'
 ---
 
-# DigitalMe Office
+# Office tools
 
 ![](./img/office_word.png)
 

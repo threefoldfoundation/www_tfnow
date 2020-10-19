@@ -6,7 +6,7 @@ next: '/docs/'
 ---
 
 
-# Upcoming Projects
+# Coming up..
 
 ## Presearch on ThreeFold
 

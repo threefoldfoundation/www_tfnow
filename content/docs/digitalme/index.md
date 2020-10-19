@@ -1,7 +1,7 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/blog-publisher/'
+prev: '/docs/tfgrid/'
 next: '/docs/crystaltwin/'
 ---
 

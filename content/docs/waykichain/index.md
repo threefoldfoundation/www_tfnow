@@ -6,7 +6,7 @@ next: '/docs/upcoming-projects/'
 ---
 
 
-# WaykiChain on ThreeFold
+# WaykiChain
 
 ![](./img/waykichain1.png)
 

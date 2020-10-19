@@ -32,7 +32,21 @@ module.exports = {
             ]
           },
           {
-            title: 'Decentralized We',
+            title: 'Decentralized Cloud',
+            items: [
+              '/docs/tfgrid/',		                  
+            ]
+          },
+          {
+            title: 'Decentralized Me',
+            items: [
+              '/docs/digitalme/',
+              '/docs/digitalme-id/',
+              '/docs/crystaltwin/',	
+            ]
+          },
+          {
+            title: 'Web & Social Tools',
             items: [
               '/docs/video-conf/',
               '/docs/virtual-spaces/',
@@ -42,17 +56,8 @@ module.exports = {
               '/docs/blog-publisher/',
             ]
           },
-          
-          {
-            title: 'Decentralized Me',
-            items: [
-              '/docs/digitalme/',
-              '/docs/crystaltwin/',
-              '/docs/digitalme-id/',	
-            ]
-           },
            {
-            title: 'Decentralized Office',
+            title: 'Collaboration Tools',
             items: [
               '/docs/dmcollab/',
               '/docs/dmcircles/',
@@ -61,13 +66,7 @@ module.exports = {
             ]
            },
            {
-            title: 'Decentralized Cloud',
-            items: [
-              '/docs/tfgrid/',		                  
-            ]
-           },
-           {
-            title: 'Decentralized Code',
+            title: 'Developer Tools',
             items: [
               '/docs/gitea/',
               '/docs/zeroci/',	
@@ -77,7 +76,7 @@ module.exports = {
             ]
            },
            {
-            title: 'Decentralized Chain',
+            title: 'Blockchain Solutions',
             items: [
               '/docs/dash/',	
               '/docs/digibyte/',
@@ -86,7 +85,6 @@ module.exports = {
               '/docs/matic/',
               '/docs/neo/',
               '/docs/skalelabs/',
-              '/docs/stellar/',
               '/docs/tomochain/',	
               '/docs/waykichain/',
               '/docs/upcoming-projects/',

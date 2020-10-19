@@ -5,7 +5,7 @@ next: '/docs/digibyte/'
 prev: '/docs/gridsome/'
 ---
 
-# Dash on ThreeFold
+# Dash
 
 ![](./img/dash1.png)
 

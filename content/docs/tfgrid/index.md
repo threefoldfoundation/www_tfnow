@@ -1,8 +1,8 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/dmcustomers/'
-next: '/docs/gitea/'
+prev: '/docs/'
+next: '/docs/digitalme/'
 ---
 
 # ThreeFold Grid 

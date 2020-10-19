@@ -5,7 +5,7 @@ prev: '/docs/digibyte/'
 next: '/docs/harmony/'
 ---
 
-# Elrond on ThreeFold
+# Elrond
 
 ![](./img/elrond1.jpg)
 

@@ -2,10 +2,10 @@
 description: ''
 sidebar: 'docs'
 next: '/docs/virtual-spaces/'
-prev: '/docs/'
+prev: '/docs/digitalme-id/'
 ---
 
-# Video Conferencing
+# Video Chat
 
 ![](./img/connect.png)
 

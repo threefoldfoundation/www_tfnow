@@ -5,7 +5,7 @@ prev: '/docs/neo/'
 next: '/docs/stellar/'
 ---
 
-# Skale Network on ThreeFold
+# Skale Network
 
 ![](./img/skale1.png)
 

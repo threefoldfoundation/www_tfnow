@@ -1,11 +1,11 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/tfgrid/'
+prev: '/docs/dmcustomers/'
 next: '/docs/zeroci/'
 ---
 
-# Source control Management: Gitea
+# Gitea
 
 ![](./img/gitea.png)
 
