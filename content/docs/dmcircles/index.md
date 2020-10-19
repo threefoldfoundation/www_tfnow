@@ -5,7 +5,7 @@ prev: '/docs/dmcollab/'
 next: '/docs/dmoffice/'
 ---
 
-# DigitalMe Circles
+# Project Management
 
 ![](./img/taiga_frontpage.png)
 

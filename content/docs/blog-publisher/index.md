@@ -2,7 +2,7 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/wiki-publisher/'
-next: '/docs/digitalme/'
+next: '/docs/dmcollab/'
 ---
 
 # Blog Publisher

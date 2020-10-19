@@ -2,7 +2,7 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/crystaltwin/'
-next: '/docs/dmcollab/'
+next: '/docs/video-conf/'
 ---
 
 

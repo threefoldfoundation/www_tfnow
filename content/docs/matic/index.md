@@ -5,7 +5,7 @@ prev: '/docs/harmony/'
 next: '/docs/neo/'
 ---
 
-# Matic Network on ThreeFold
+# Matic Network
 
 ![](./img/matic1.png)
 

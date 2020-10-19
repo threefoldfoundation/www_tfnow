@@ -1,11 +1,11 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/crystaltwin/'
+prev: '/docs/blog-publisher/'
 next: '/docs/dmcircles/'
 ---
 
-# DigitalMe Collab
+# Cryptpad
 
 ![](./img/what_is_cryptpad.png)
 

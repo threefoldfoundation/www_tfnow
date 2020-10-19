@@ -5,7 +5,7 @@ prev: '/docs/stellar/'
 next: '/docs/waykichain/'
 ---
 
-# TomoChain on ThreeFold
+# TomoChain
 
 ![](./img/tomochain_intro.png)
 
