@@ -9,9 +9,11 @@ next: '/docs/zeroci/'
 
 ![](./img/gitea.png)
 
-## What is gitea ?
+## What is Gitea ?
 
-Gitea is a painless self-hosted Git service. It is similar to GitHub, Bitbucket, and GitLab. Gitea is a fork of Gogs. 
+[Gitea](https://gitea.io/en-us/) is a painless, self-hosted Git service. It is similar to GitHub, Bitbucket, and GitLab. Gitea is a fork of Gogs.
+
+*Note: The below text is quite technical and mainly relevant for those with knowledge of Git.*
 
 ### How it all started
 Git development began in April 2005, after many developers of the Linux kernel gave up access to BitKeeper, a proprietary source-control management (SCM) system that they had been using to maintain the project since 2002. Linus Torvalds wanted a distributed system that he could use like BitKeeper, but none of the available free systems met his needs. Torvalds cited an example of a source-control management system needing 30 seconds to apply a patch and update all associated metadata, and noted that this would not scale to the needs of Linux kernel development, where synchronizing with fellow maintainers could require 250 such actions at once. For his design criterion, he specified that patching should take no more than three seconds, and added three more points:
@@ -41,13 +43,13 @@ Powerful alternative to e.g. centralized Github.
 
 ## How to Deploy ?
 
-THE widget on the TF Marketplace allows you to deploy a Gitea instance by answering a few questions. 
+The widget on the TF Marketplace allows you to deploy a Gitea instance by answering a few questions: 
 
-- [ ] Choose a name for you solution.  This name will identify this Gitea deployment in solutions overview and will form a part of the unique URL to access the repository. 
-- [ ] Predefined locations for the demo deployments.  In the future this will be expanded and you will be able to choose your deployment location on any of the TF GRid 3nodes.
+- [ ] **Choose a name for you solution.** This name will identify this Gitea deployment in solutions overview and will form a part of the unique URL to access the repository. 
+- [ ] **Predefined locations for the demo deployments.** In the future this will be expanded and you will be able to choose your deployment location on any of the TF Grid 3Nodes.
 - [ ] This will deploy the Gitea software on testnet and provide you with a URL to do the configuration of the Gitea software.
 
 ## FAQs
 
-- Stay tuned
+Coming ...
 

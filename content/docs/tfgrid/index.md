@@ -11,29 +11,31 @@ next: '/docs/digitalme/'
 
 ![](./img/cloud2.png)
 
+The Internet started in the last century as a sharing mechanism by people, for people. As described below in [the centralized cloud section](#centralized-cloud), somehow it morphed into an oligopolistic market where a few companies own and rule it all.
 
-The internet started in the last century as a sharing mechanism by people for people.  As described below in [the centralized cloud section](#centralized-cloud), this somehow morphed into a oligopolistic market where a few companies own and rule it all.  This is not inline with the original intend of what the internet was all about.  An increasing number of people are realizing that the current delivery model for cloud services is not scalable and will not deliver services to people globally in an efficient matter.  A centralized approach for delivering cloud services provides efficiencies to providers of these services.
+This is not in line with the original intention of the Internet or what the Internet was all about. An increasing number of people are realizing that the current delivery model for cloud services is not scalable and will not deliver services to people globally in an efficient matter. A centralized approach for delivering cloud services provides efficiencies only to the providers of these services.
 
-Decentralized cloud is a cloud that is provided by people for people.  To scale out and deliver the exponential increase in required data processing and storage capabilities a new model is needed.  A model in which people own servers and share these servers out to other people to use.  This should be possible for individual people and companies.  By many for everyone.  ThreeFold Tech is building the technology to do this and the ThreeFold foundation is promoting and marketing the TF Grid, [the the largest peer-to-peer grid on the planet](https://threefold.io/)
+Decentralized cloud is a cloud that is provided by people, for people. To scale out and deliver the exponential increase in required data processing and storage capabilities, a new model is needed – a model in which people own servers and share these servers out to other people to use. This should be possible for individual people and companies. By many, for everyone.  ThreeFold Tech is building the technology to do this and the ThreeFold Foundation is promoting and marketing the TF Grid, [the the largest peer-to-peer grid on the planet](https://threefold.io/)
 
-The opportunity is huge, as the cloud market is expanding at an exponential rate, Gartner forecasts the market turnover to be of 350 Billion USD by the end of 2022.
+The opportunity is huge, as the cloud market is expanding at an exponential rate. Gartner forecasts the market turnover to be 350 Billion USD by the end of 2022.
 
-- [ThreeFold Decentralized Grid](threefold.md)
-## ThreeFold Grid 
+## The ThreeFold Grid 
 
-There is way too much to fit here ! Check the link to find a lot of information: [ThreeFold Decentralized Grid](https://cloud.threefold.io)
+The ThreeFold Grid is the largest active decentralized cloud in the world.
+
+There is way too much to fit here! Check this link to find a lot of information: [ThreeFold Decentralized Grid](https://cloud.threefold.io)
 
 ![](./img/cloud_comparison.png)
 
 ## Centralized Cloud
 
-_(Content redacted from [wikipedia](https://en.wikipedia.org/wiki/Cloud_computing))_
+_(Content redacted from [Wkipedia](https://en.wikipedia.org/wiki/Cloud_computing))_
 
 Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user. The term is generally used to describe data centers full of servers available to many users over the Internet. Large clouds provide services to users from central locations and often have multiple locations. This service delivery model is called "centralized" cloud because all the necessary capital, equipment and knowledge are owned by one organization (or person). 
 
 Cloud computing allows companies to avoid or minimize up-front IT infrastructure costs and lead to higher usage and efficiency rates of servers. Cloud computing usually also allows enterprises to get their applications up and running faster, with improved manageability and less maintenance. It enables IT teams to more rapidly adjust resources to meet fluctuating and unpredictable demand by using the cloud to provide burst computing capability.
 
-The public cloud market is dominated by a few companies that own the majority of public cloud services.  Gartner estimate and projects the market to be more than 350 Billion USD by 2022.
+The public cloud market is dominated by a few companies that own the majority of public cloud services. Gartner estimate and projects the market to be more than 350 Billion USD by 2022.
 
  Table 1. Worldwide Public Cloud Service Revenue Forecast (Billions of U.S. Dollars) (source [Gartner](https://www.gartner.com/en/newsroom/press-releases/2019-11-13-gartner-forecasts-worldwide-public-cloud-revenue-to-grow-17-percent-in-2020))
 	
