@@ -7,10 +7,11 @@ next: '/docs/dash/'
 
 # Gridsome
 
+*Note: This page is being worked on and will be expanded.*
+
 - A Jamstack framework
 
 ![](./img/gridsome3.png)
-
 
 ## How it Works ?
 
@@ -22,13 +23,15 @@ next: '/docs/dash/'
 
 ## Features
 
-- directly deploy on TFGrid
-- build & test before deploy
+- Directly deploy on TFGrid
+- Build & test before deploy
+
+More coming ...
 
 ## How to Deploy ?
 
-- Steps go here
+Coming ...
 
 ## FAQs
 
-- Common issues and problems
+Coming ...

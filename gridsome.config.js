@@ -51,9 +51,8 @@ module.exports = {
               '/docs/video-conf/',
               '/docs/virtual-spaces/',
               '/docs/video-sharing/',
-              '/docs/website-publisher/',
-              '/docs/wiki-publisher/',
-              '/docs/blog-publisher/',
+              '/docs/publishing-tool/',
+              '/docs/knowledge-base/',
             ]
           },
            {
@@ -62,15 +61,15 @@ module.exports = {
               '/docs/dmcollab/',
               '/docs/dmcircles/',
 	            '/docs/dmoffice/',
-	            '/docs/dmcustomers/',
+              '/docs/dmcustomers/',
+              '/docs/commento/',
             ]
            },
            {
             title: 'Developer Tools',
             items: [
               '/docs/gitea/',
-              '/docs/zeroci/',	
-	            '/docs/commento/',
+              '/docs/zeroci/',
               '/docs/serverless/',	
 	            '/docs/gridsome/',
             ]

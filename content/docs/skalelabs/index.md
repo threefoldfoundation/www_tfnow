@@ -5,31 +5,27 @@ prev: '/docs/neo/'
 next: '/docs/stellar/'
 ---
 
-# Skale Network
+# SKALE Network
 
 ![](./img/skale1.png)
 
-
 ## Joint Mission
 
-Solving scalability and decentralization limitations faced by Ethereum developers
+Solving scalability and decentralization limitations faced by Ethereum developers!
 
-## About Skale Labs
+## About SKALE Labs
 
 **[SKALE](https://skale.network/)** is an elastic blockchain network that gives developers the ability to easily provision highly configurable fully decentralized chains that are instantly compatible with Ethereum. SKALE chains can execute sub-second block times, run up to 2,000 tps per chain, and run full-state smart contracts in addition to decentralized storage, execute Rollups, and machine learning in EVM. The SKALE Network is an open-source project with many contributors including SKALE Labs.
 
-## Skale Labs and ThreeFold
+## SKALE Labs and ThreeFold
 
-SKALE and ThreeFold collaboration focuses on solving scalability and decentralization limitations faced by Ethereum and Blockchain developers. the joint empower the SKALE developer community, and web3 developers, with the ThreeFold peer-to-peer cloud, enabling them to:
+The SKALE and ThreeFold collaboration focuses on solving scalability and decentralization limitations faced by Ethereum and blockchain developers. The effort empowers the SKALE developer community, and Web3 developers, with the ThreeFold Peer-to-Peer Cloud, enabling them to:
 
-- Build highly scalable dApps on Ethereum using SKALE’s elastic Blockchain network.
-
-- Completely decentralize their IT infrastructure using ThreeFold’s P2P compute, storage, and networking capacities, providing far more affordability, privacy, and decentralization through its native cloud automation and Smart Contract for IT.
+- Build highly scalable dApps on Ethereum using SKALE’s elastic Blockchain network
+- Completely decentralize their IT infrastructure using ThreeFold’s P2P compute, storage, and networking capacities, providing far more affordability, privacy, and decentralization through its native cloud automation and Smart Contract for IT
 
 ## Get Started
 
+**Coming soon:** You will be able to soon run SKALE validator nodes via the **ThreeFold Now Marketplace**'s dashboard in a few clicks.
 
-Coming soon:
-You will be able to soon run Skale Validator nodes via the **ThreeFold NOW Marketplace**'s dashboard in a few clicks.
-
-Stay tuned at **[Threefold NOW Marketplace](https://marketplace.threefold.io)**.
+Stay tuned at **[Threefold Now Marketplace](https://marketplace.threefold.io)**.

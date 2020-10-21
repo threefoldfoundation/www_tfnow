@@ -1,28 +1,30 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/zeroci/'
-next: '/docs/serverless/'
+prev: '/docs/dmcustomers/'
+next: '/docs/gitea/'
 ---
 
 # Commento
 
+*Note: This page is being worked on and will be expanded.*
+
 ![](./img/commento.png)
 
-## How it Works ?
+## How does it work?
 
-- Give some details here
+Coming ...
 
-![](./img/commento2.png)
+## What problems does it solve?
 
-## What problems it solves ?
+Coming ...
 
-- Solution here
+## How to Deploy
 
-## How to Deploy ?
-
-- Steps go here 
+Coming ...
 
 ## FAQs
 
-- Common issues and problems
+Coming ...
+
+![](./img/commento2.png)

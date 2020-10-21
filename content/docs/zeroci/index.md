@@ -7,23 +7,24 @@ next: '/docs/commento/'
 
 # ZeroCI
 
+*Note: This page is being worked on and will be expanded.*
 
 ![](./img/cont_integr.png)
 
-## What is ZeroCI ?
-
-Take a look here => https://github.com/threefoldtech/zeroCI
+## What is ZeroCI?
 
 ZeroCI is continuous integration system useful for all languages but has some specific features for python projects that generates test summary into xml file and it is integrated with version control systems and Telegram.
 
-(Note: version control systems supported are Github and Gitea)
+Take a look here => https://github.com/threefoldtech/zeroCI
+
+(Note: Version control systems supported are Github and Gitea)
 
 ![](./img/zeroci.png)
 
-## How to Deploy ?
+## How to Deploy
 
-- All steps go here
+Coming ...
 
 ## FAQs
 
-- List common issues and questions
+Coming ...
