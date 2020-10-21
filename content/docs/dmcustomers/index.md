@@ -2,7 +2,7 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/dmoffice/'
-next: '/docs/gitea/'
+next: '/docs/commento/'
 ---
 
 # CRM

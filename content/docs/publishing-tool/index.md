@@ -2,10 +2,10 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/video-sharing/'
-next: '/docs/wiki-publisher/'
+next: '/docs/knowledge-base/'
 ---
 
-# Website Publisher
+# Publishing Tool
 
 ![](./img/website_browser.png)
 

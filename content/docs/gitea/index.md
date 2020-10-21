@@ -1,7 +1,7 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/dmcustomers/'
+prev: '/docs/commento/'
 next: '/docs/zeroci/'
 ---
 

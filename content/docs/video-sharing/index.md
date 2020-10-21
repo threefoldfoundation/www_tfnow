@@ -2,7 +2,7 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/virtual-spaces/'
-next: '/docs/website-publisher/'
+next: '/docs/publishing-tool/'
 ---
 
 # Video Sharing

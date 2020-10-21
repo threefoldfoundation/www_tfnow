@@ -1,8 +1,8 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/zeroci/'
-next: '/docs/serverless/'
+prev: '/docs/dmcustomers/'
+next: '/docs/gitea/'
 ---
 
 # Commento
