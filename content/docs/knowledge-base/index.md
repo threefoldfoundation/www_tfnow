@@ -2,7 +2,7 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/publishing-tool/'
-next: '/docs/gitea/'
+next: '/docs/discourse/'
 ---
 
 # BookStack

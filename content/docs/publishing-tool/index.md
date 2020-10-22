@@ -11,6 +11,10 @@ next: '/docs/knowledge-base/'
 
 *Note: In the [ThreeFold Now Marketplace](https://marketplace.threefold.io), you will see separate widgets for Website, Blog, & Wiki.*
 
+- *You can access Website Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/website).*
+- *You can access Blog Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/blog).*
+- *You can access Wiki Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/wiki).*
+
 ## How does it work?
 
 For website (or blog or wiki) creation and management, there are may options available in the market. From total end-to-end solutions like Squarespace to do-it-yourself and select the tools and software to run your website. ThreeFold has created publishing tools that allow for deployment and management with version control, automatic update, and staging facilities.
@@ -28,6 +32,10 @@ The basic principle is that you create the content in the repository (html, mark
 - Website: https://www.threefold.io/
 - Blog: https://blog.threefold.io/
 - Wiki: https://info.threefold.io
+
+### You can access Website Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/website).
+### You can access Blog Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/blog).
+### You can access Wiki Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/wiki).
 
 <!-- 
 ### Deploy

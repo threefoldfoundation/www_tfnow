@@ -9,6 +9,8 @@ next: '/docs/publishing-tool/'
 
 ![](./img/peertive_window.png)
 
+*You can access PeerTube on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/peertube).*
+
 ##  What is a video sharing platform?
 
 Since the early 2010s, with the increasing prevalence of technology and the Internet in everyday life, video hosting services have served as a portal to different forms of entertainment (comedy, games shows, games, or music), news, documentaries and educational videos. Content may be user-generated / amateur clips or commercial-level products. The entertainment industry uses this medium to release music, videos, movies and television shows directly to the public. Video hosting services are becoming more & more popular, especially with the explosion in popularity of blogs, internet forums and other interactive pages. The mass market for camera phones and smartphones has increased the supply of user-generated videos. 
@@ -51,7 +53,9 @@ Unique characteristics of the platform:
 - Deploying PeerTube on the TF Grid is a one-click solution and will get you a private instance on which to host your videos
 - The TF Grid is a federation of people and companies that believe the Internet should be put back in the hands of people, not large monopolies currently dominating the landscape. Direct contact with a human-scale hoster (which ThreeFold calls farmers) allows for two things: you no longer are the client of a huge tech company, and you can nurture a special relationship with your hoster (farmer), who distributes your data
 - The PeerTube software can, whenever necessary, use a peer-to-peer (P2P protocol to broadcast viral videos, lowering the load of their hosts
-> Help PeerTube, as they are [fundraising](https://joinpeertube.org/roadmap). With little, they can make this software even much better than it is today
+> Help PeerTube, as they are [fundraising](https://joinpeertube.org/roadmap). With little, they can make this software even much better than it is today.
+
+### You can access PeerTube on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/peertube).
 
 <!--
 

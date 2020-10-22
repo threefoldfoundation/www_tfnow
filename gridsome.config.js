@@ -53,6 +53,7 @@ module.exports = {
 	            '/docs/dmoffice/',
               '/docs/dmcustomers/',
               '/docs/commento/',
+              '/docs/mattermost/',
             ]
           },
           {
@@ -63,6 +64,7 @@ module.exports = {
               '/docs/video-sharing/',
               '/docs/publishing-tool/',
               '/docs/knowledge-base/',
+              '/docs/discourse/',
             ]
           },
           {

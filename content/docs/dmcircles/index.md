@@ -9,6 +9,8 @@ next: '/docs/dmoffice/'
 
 ![](./img/taiga_frontpage.png)
 
+*You can access Taiga on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/taiga).*
+
 ## Are you familiar with Agile? 
 
 A new methodology has been developed to do exactly the same as traditional waterfall project management but allows for changes to happen in the process. Pioneered by the software industry but adopted by many other industries today is the **Agile** development methodology to organize and run projects. Agile promotes agility in running a project and lives by the following principles:
@@ -36,3 +38,5 @@ Deploying your own instance on the grid provides you with unique features like:
 - **A private instance**. It's your private instance running in you private virtual data center.
 - **Choice of location**. Any node on the TF Grid is able to run the Taiga instance and we will make more locations to deploy going forward.
 - **Decentralized User Authentication**. ThreeFold uses a 2-Factor Authentication system that doe not rely on central storage of a username and password combination.
+
+### You can access Taiga on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/taiga).

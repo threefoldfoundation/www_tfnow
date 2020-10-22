@@ -22,6 +22,6 @@ Our digital lives have become complicated, inefficient, and insecure. The web th
 
 Crystal Twin is a completely redesigned way to navigate your digital world with YOU at the center. Crystal Twin is your digital ally, keeping your data safe while making the Internet simple, more efficient, and sustainable for the planet.
 
-## Why is this important?
+## Why is Crystal Twin important?
 
 Have you seen The Social Dilemma? Well, we can break away. Crystal Twin creates a bright new and free digital world.

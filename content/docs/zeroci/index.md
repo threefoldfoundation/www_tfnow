@@ -9,22 +9,24 @@ next: '/docs/serverless/'
 
 *Note: This page is being worked on and will be expanded.*
 
-![](./img/cont_integr.png)
+![](./img/zeroci.png) 
 
 ## What is ZeroCI?
 
-ZeroCI is continuous integration system useful for all languages but has some specific features for python projects that generates test summary into xml file and it is integrated with version control systems and Telegram.
-
-Take a look here => https://github.com/threefoldtech/zeroCI
+[ZeroCI](https://github.com/threefoldtech/zeroCI) is a continuous integration system useful for all languages but has some specific features for python projects that generates test summary into xml file and it is integrated with version control systems and Telegram.
 
 (Note: Version control systems supported are Github and Gitea)
 
-![](./img/zeroci.png)
+![](./img/cont_integr.png)
+
+## Why use ZeroCI?
+
+Coming soon ...
 
 ## How to Deploy
 
-Coming ...
+Coming soon ...
 
 ## FAQs
 
-Coming ...
+Coming soon ...

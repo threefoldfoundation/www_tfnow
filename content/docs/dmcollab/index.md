@@ -9,6 +9,8 @@ next: '/docs/dmcircles/'
 
 ![](./img/what_is_cryptpad.png)
 
+*You can access CryptPad on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/cryptpad).*
+
 ## Why CryptPad?
 
 Many alternatives are available to the the dominant office tools from Microsoft and Google, but ThreeFold endorses and supports the CryptPad.fr open-source CryptPad project.
@@ -54,3 +56,5 @@ This is an alternative to Word and Google Docs. It allows you to create document
 ![](./img/drive.png)
 
 Support CryptPad at https://cryptpad.fr/index.html.
+
+### You can access CryptPad on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/cryptpad).

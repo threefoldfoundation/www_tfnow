@@ -12,7 +12,7 @@ next: '/docs/tfgrid/'
 
 From publishing to video hosting, communication to project management, ThreeFold has developed a suite of turnkey solutions for end-users to create, share and build on the decentralized and secure [ThreeFold Grid](https://threefold.io). 
 
-**The Internet of tomorrow, available today — this is ThreeFold Now.**  
+**The Internet of tomorrow, available today — this is [ThreeFold Now](https://marketplace.threefold.io).**  
 
 ![](./index/img/demo_site_overview.png)
 
@@ -34,7 +34,7 @@ While the current Internet has plenty of apps, games and gadgets to keep you bus
 
 ## How to Use 
 
-Visit the ThreeFold Now Marketplace [here](https://marketplace.threefold.io): 
+**Visit the ThreeFold Now Marketplace [here](https://marketplace.threefold.io):**
 
 - Choose the solution you want to launch from the menu
 - Use the guided setup to create your solution

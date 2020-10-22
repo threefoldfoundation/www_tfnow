@@ -1,7 +1,7 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/knowledge-base/'
+prev: '/docs/discourse/'
 next: '/docs/zeroci/'
 ---
 
@@ -9,7 +9,9 @@ next: '/docs/zeroci/'
 
 ![](./img/gitea.png)
 
-## What is Gitea ?
+*You can access Gitea on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/gitea).*
+
+## What is Gitea?
 
 [Gitea](https://gitea.io/en-us/) is a painless, self-hosted Git service. It is similar to GitHub, Bitbucket, and GitLab. Gitea is a fork of Gogs.
 
@@ -37,11 +39,15 @@ Torvalds sarcastically quipped about the name git (which means "unpleasant perso
 
 Git since then has become a standard for developers to use globally and many commercial (centralized) versions of the software have been created.  Github (acquired by Microsoft) and Gitlab being well known service providers of Git services.
 
-Powerful alternative to e.g. centralized Github.
+In the end, it is a powerful alternative to e.g. centralized Github.
 
 - More info see https://gitea.io/
 
-## How to Deploy ?
+## Why use Gitea?
+
+Coming soon ...
+
+## How to Deploy
 
 The widget on the TF Marketplace allows you to deploy a Gitea instance by answering a few questions: 
 
@@ -49,7 +55,6 @@ The widget on the TF Marketplace allows you to deploy a Gitea instance by answer
 - [ ] **Predefined locations for the demo deployments.** In the future this will be expanded and you will be able to choose your deployment location on any of the TF Grid 3Nodes.
 - [ ] This will deploy the Gitea software on testnet and provide you with a URL to do the configuration of the Gitea software.
 
-## FAQs
+## FAQs (Coming Soon)
 
-Coming ...
-
+### You can access Gitea on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/gitea).*
