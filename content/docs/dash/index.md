@@ -1,8 +1,8 @@
 ---
 description: ''
 sidebar: 'docs'
-next: '/docs/digibyte/'
 prev: '/docs/gridsome/'
+next: '/docs/digibyte/'
 ---
 
 # Dash

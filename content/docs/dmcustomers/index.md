@@ -5,7 +5,7 @@ prev: '/docs/dmoffice/'
 next: '/docs/commento/'
 ---
 
-# CRM
+# OroCRM
 
 ![](./img/orocrm_1.png)
 

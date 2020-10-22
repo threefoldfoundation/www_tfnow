@@ -5,7 +5,7 @@ prev: '/docs/dmcollab/'
 next: '/docs/dmoffice/'
 ---
 
-# Project Management
+# Taiga
 
 ![](./img/taiga_frontpage.png)
 

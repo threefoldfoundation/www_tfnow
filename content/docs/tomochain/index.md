@@ -1,7 +1,7 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/stellar/'
+prev: '/docs/skalelabs/'
 next: '/docs/waykichain/'
 ---
 

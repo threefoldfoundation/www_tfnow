@@ -2,7 +2,7 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/neo/'
-next: '/docs/stellar/'
+next: '/docs/tomochain/'
 ---
 
 # SKALE Network

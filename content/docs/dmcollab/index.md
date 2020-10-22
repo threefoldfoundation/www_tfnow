@@ -1,7 +1,7 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/knowledge-base/'
+prev: '/docs/crystaltwin/'
 next: '/docs/dmcircles/'
 ---
 

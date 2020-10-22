@@ -5,7 +5,7 @@ prev: '/docs/matic/'
 next: '/docs/skalelabs/'
 ---
 
-# Neo
+# NEO
 
 ![](./img/intro.png)
 

@@ -5,13 +5,13 @@ prev: '/docs/video-conf/'
 next: '/docs/video-sharing/'
 ---
 
-# Virtual Spaces
+# Mozilla Hubs
+
+![](./img/hubs.png)
 
 ## Taking collaboration to the next level
 
 ThreeFold Foundation expects that with global conditions, online collaboration in virtual spaces will continue to increase in popularity, and tools to create interesting virtual spaces will help to inspire us to enjoy virtual meetup experiences, to collaborate, and to co-create.
-
-![](./img/hubs.png)
 
 ## Do you know about Mozilla Hubs?
 

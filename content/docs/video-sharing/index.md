@@ -5,7 +5,7 @@ prev: '/docs/virtual-spaces/'
 next: '/docs/publishing-tool/'
 ---
 
-# Video Sharing
+# PeerTube
 
 ![](./img/peertive_window.png)
 

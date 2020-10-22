@@ -46,6 +46,16 @@ module.exports = {
             ]
           },
           {
+            title: 'Collaboration Tools',
+            items: [
+              '/docs/dmcollab/',
+              '/docs/dmcircles/',
+	            '/docs/dmoffice/',
+              '/docs/dmcustomers/',
+              '/docs/commento/',
+            ]
+          },
+          {
             title: 'Web & Social Tools',
             items: [
               '/docs/video-conf/',
@@ -55,17 +65,7 @@ module.exports = {
               '/docs/knowledge-base/',
             ]
           },
-           {
-            title: 'Collaboration Tools',
-            items: [
-              '/docs/dmcollab/',
-              '/docs/dmcircles/',
-	            '/docs/dmoffice/',
-              '/docs/dmcustomers/',
-              '/docs/commento/',
-            ]
-           },
-           {
+          {
             title: 'Developer Tools',
             items: [
               '/docs/gitea/',
@@ -73,8 +73,8 @@ module.exports = {
               '/docs/serverless/',	
 	            '/docs/gridsome/',
             ]
-           },
-           {
+          },
+          {
             title: 'Blockchain Solutions',
             items: [
               '/docs/dash/',	
@@ -88,7 +88,7 @@ module.exports = {
               '/docs/waykichain/',
               '/docs/upcoming-projects/',
             ]
-           }
+          }
         ]
       }
     ]

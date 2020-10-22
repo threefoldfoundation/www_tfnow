@@ -2,7 +2,7 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/dmcustomers/'
-next: '/docs/gitea/'
+next: '/docs/video-conf/'
 ---
 
 # Commento

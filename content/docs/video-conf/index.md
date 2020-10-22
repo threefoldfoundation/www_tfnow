@@ -1,8 +1,8 @@
 ---
 description: ''
 sidebar: 'docs'
+prev: '/docs/commento/'
 next: '/docs/virtual-spaces/'
-prev: '/docs/digitalme-id/'
 ---
 
 # Video Chat

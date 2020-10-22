@@ -2,14 +2,13 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/digitalme-id/'
-next: '/docs/video-conf/'
+next: '/docs/dmcollab/'
 ---
 
 # Crystal Twin
+*Your personal Digital Avatar*
 
 ![](./img/crystaltwin.png)
-
-Your personal Digital Avatar
 
 ## What is happening today?
 

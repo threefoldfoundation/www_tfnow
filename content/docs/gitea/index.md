@@ -1,7 +1,7 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/commento/'
+prev: '/docs/knowledge-base/'
 next: '/docs/zeroci/'
 ---
 
