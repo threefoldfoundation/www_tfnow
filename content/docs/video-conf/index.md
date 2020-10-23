@@ -11,11 +11,15 @@ next: '/docs/virtual-spaces/'
 
 ## Quick Background
 
-Online services that provided end user-friendly video conferencing solutions are in high demand, and many of the providers of such services have seen a tremendous increase in usage statistics. Using centralized services for video conferencing creates silos of users that can communicate because they use the same tool, and it allows the man in the middle – the video conferencing platform – to collect and market data captured by end user usage.
+- Online services that provided end user-friendly video conferencing solutions are in high demand, and many of the providers of such services have seen a tremendous increase in usage statistics.
+- Using centralized services for video conferencing creates silos of users that can communicate because they use the same tool.
+- And it allows the man in the middle – the video conferencing platform – to collect and market data captured by end user usage.
 
 ## How do other solutions work?
 
-When Zoom became a very popular (free of charge) video conferencing solution, they changed the policy in terms of how you connected through their platform to others uses. In this case, if you had a free account, all free account users were connected through US based Zoom (central) infrastructure, leading to very inefficient capacity usage and a the potential for oversight by US agencies and authorities. 
+- When Zoom became a very popular (free of charge) video conferencing solution, they changed the policy in terms of how you connected through their platform to others uses.
+- In this case, if you had a free account, all free account users were connected through US based Zoom (central) infrastructure.
+- This leads to very inefficient capacity usage and the potential for oversight by US agencies and authorities. 
 
 ## Example of the current solution
 
