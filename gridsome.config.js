@@ -11,7 +11,6 @@ module.exports = {
     touchicon: './src/assets/favicon.png'
   },
   siteUrl: (process.env.SITE_URL ? process.env.SITE_URL : ''),
-  pathPrefix: "/now2",	
   settings: {
     web: process.env.URL_WEB || false,
     twitter: process.env.URL_TWITTER || false,
