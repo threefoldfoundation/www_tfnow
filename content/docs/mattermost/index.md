@@ -29,15 +29,15 @@ It brings the all the communication features you need, including:
  - Emoji and rich Markdown formatting
  - Multi-language support
 
- And has important integrated tools like:
+And has important integrated tools like:
 
  - DevOps integration set
  - Incoming and outgoing webhooks
  - Custom slash commands
  - Robust API library
 
- Basically, you won't lose out on [the key functionalities](https://mattermost.com/product/) you might be used to with other alternative and you **gain** privacy and security.
+Basically, you won't lose out on [the key functionalities](https://mattermost.com/product/) you might be used to with other alternative and you **gain** privacy and security.
 
- Bonus! Mattermost has integration features with [Discourse](https://www.discourse.org/), which is also part of the ThreeFold Now suite.
+Bonus! Mattermost has integration features with [Discourse](https://www.discourse.org/), which is also part of the ThreeFold Now suite.
 
-### You can access Mattermost on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/mattermost).
+**You can access Mattermost on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/mattermost).**
