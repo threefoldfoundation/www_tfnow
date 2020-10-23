@@ -25,4 +25,4 @@ We are big fans of Discourse and actually use it for [our forum](https://forum.t
 
 Bonus! Discourse has integration features with [Mattermost](https://mattermost.com/), which is also part of the ThreeFold Now suite.
 
-### You can access Discourse on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/discourse).
+**You can access Discourse on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/discourse).**

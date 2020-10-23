@@ -57,4 +57,4 @@ This is an alternative to Word and Google Docs. It allows you to create document
 
 Support CryptPad at https://cryptpad.fr/index.html.
 
-### You can access CryptPad on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/cryptpad).
+**You can access CryptPad on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/cryptpad).**
