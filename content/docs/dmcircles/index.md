@@ -39,4 +39,4 @@ Deploying your own instance on the grid provides you with unique features like:
 - **Choice of location**. Any node on the TF Grid is able to run the Taiga instance and we will make more locations to deploy going forward.
 - **Decentralized User Authentication**. ThreeFold uses a 2-Factor Authentication system that doe not rely on central storage of a username and password combination.
 
-### You can access Taiga on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/taiga).
+**You can access Taiga on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/taiga).**
