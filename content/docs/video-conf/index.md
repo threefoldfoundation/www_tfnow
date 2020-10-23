@@ -1,37 +1,37 @@
 ---
 description: ''
 sidebar: 'docs'
+prev: '/docs/mattermost/'
 next: '/docs/virtual-spaces/'
-prev: '/docs/'
 ---
 
-# Video Conferencing
+# Video Chat
 
 ![](./img/connect.png)
 
 ## Quick Background
 
-Online services that provided end user friendly video conferencing facilities where in high demand and many of the providers of such services have seen a tremendous increase in usage statistics.  Using centralised services for video conferencing create silos of users that can communicate because they use the same tool, and it allows the man in the middle, the video conferencing platform to collect and market data captured by enduser usage.
+Online services that provided end user-friendly video conferencing solutions are in high demand, and many of the providers of such services have seen a tremendous increase in usage statistics. Using centralized services for video conferencing creates silos of users that can communicate because they use the same tool, and it allows the man in the middle – the video conferencing platform – to collect and market data captured by end user usage.
 
-## How other solutions work ?
+## How do other solutions work?
 
-When zoom became a very popular (free of charge) video conference solution they changed the policy in terms of how you connected through their platform to others uses.  In this case if you had a free account, all free account users where connected through US based Zoom (central) infrastructure leading to very inefficient capacity usage and a very potential oversight by US agencies and authorities. 
+When Zoom became a very popular (free of charge) video conferencing solution, they changed the policy in terms of how you connected through their platform to others uses. In this case, if you had a free account, all free account users were connected through US based Zoom (central) infrastructure, leading to very inefficient capacity usage and a the potential for oversight by US agencies and authorities. 
 
-## Here is an example
+## Example of the current solution
 
-This examples is for 2 user of the zoom service with a free account based in Salzburg and Vienna.
+This examples is for two users of the Zoom service with a free account based in Salzburg and Vienna (both in Austria).
 
 ![](./img/zoom_traffic.png)
 
-## How our solution works and what makes it different ?
+## How our solution works and what makes it different
 
-In an ideal world two two users would connect direct.  No need to make this connection go through any infrastructrure that is not inline to make the connection and this can be done by creating a so called peer to peer video conferencing solution.
+In an ideal world, two two users would connect directly. There is no need to make this connection go through any infrastructure that is not in line to make the connection, and this can be done by creating a so called peer-to-peer video conferencing solution.
 
 ![](./img/peer2peer_traffic.png)
 
-Such a peer-to-peer video conferencing solution has been created and exists on the TF Grid.  It has been designed and built by the ThreeFold Tech team and will have a one click deployment option.  
+Such a peer-to-peer video conferencing solution has been created and exists on the ThreeFold Grid and within the ThreeFold Now marketplace.  It has been designed and built by the ThreeFold Tech team and will have a one-click deployment option.  
 
-The solution is called **DigitalWE room**.
+The solution is called **Video Chat**.
 
 <!--
 ![](./connect.png)

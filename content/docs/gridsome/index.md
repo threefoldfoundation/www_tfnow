@@ -7,28 +7,35 @@ next: '/docs/dash/'
 
 # Gridsome
 
-- A Jamstack framework
+*Note: This page is being worked on and will be expanded.*
 
 ![](./img/gridsome3.png)
 
+## What is Gridsome?
 
-## How it Works ?
+[Gridsome](https://gridsome.org/) is a jamstack framework – a free & open source Vue.js-powered framework for building websites & apps that are fast by default.
 
-- More info see https://gridsome.org/
+## How does it work?
 
 ![](./img/gridsome.png)
 
+More info on https://gridsome.org/.
+
+## Why use Gridsome?
+
 ![](./img/gridsome2.png)
 
-## Features
+## How is it related to our grid?
 
-- directly deploy on TFGrid
-- build & test before deploy
+- Directly deploy on TFGrid
+- Build & test before deploy
 
-## How to Deploy ?
+More coming ...
 
-- Steps go here
+## How to Deploy
+
+Coming ...
 
 ## FAQs
 
-- Common issues and problems
+Coming ...

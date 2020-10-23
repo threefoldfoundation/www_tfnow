@@ -32,52 +32,52 @@ module.exports = {
             ]
           },
           {
-            title: 'Decentralized We',
-            items: [
-              '/docs/video-conf/',
-              '/docs/virtual-spaces/',
-              '/docs/video-sharing/',
-              '/docs/website-publisher/',
-              '/docs/wiki-publisher/',
-              '/docs/blog-publisher/',
-            ]
-          },
-          
-          {
-            title: 'Decentralized Me',
-            items: [
-              '/docs/digitalme/',
-              '/docs/crystaltwin/',
-              '/docs/digitalme-id/',	
-            ]
-           },
-           {
-            title: 'Decentralized Office',
-            items: [
-              '/docs/dmcollab/',
-              '/docs/dmcircles/',
-	            '/docs/dmoffice/',
-	            '/docs/dmcustomers/',
-            ]
-           },
-           {
             title: 'Decentralized Cloud',
             items: [
               '/docs/tfgrid/',		                  
             ]
-           },
-           {
-            title: 'Decentralized Code',
+          },
+          {
+            title: 'Decentralized Me',
+            items: [
+              '/docs/digitalme/',
+              '/docs/digitalme-id/',
+              '/docs/crystaltwin/',	
+            ]
+          },
+          {
+            title: 'Collaboration Tools',
+            items: [
+              '/docs/dmcollab/',
+              '/docs/dmcircles/',
+	            '/docs/dmoffice/',
+              '/docs/dmcustomers/',
+              '/docs/commento/',
+              '/docs/mattermost/',
+            ]
+          },
+          {
+            title: 'Web & Social Tools',
+            items: [
+              '/docs/video-conf/',
+              '/docs/virtual-spaces/',
+              '/docs/video-sharing/',
+              '/docs/publishing-tool/',
+              '/docs/knowledge-base/',
+              '/docs/discourse/',
+            ]
+          },
+          {
+            title: 'Developer Tools',
             items: [
               '/docs/gitea/',
-              '/docs/zeroci/',	
-	            '/docs/commento/',
+              '/docs/zeroci/',
               '/docs/serverless/',	
 	            '/docs/gridsome/',
             ]
-           },
-           {
-            title: 'Decentralized Chain',
+          },
+          {
+            title: 'Blockchain Solutions',
             items: [
               '/docs/dash/',	
               '/docs/digibyte/',
@@ -86,12 +86,11 @@ module.exports = {
               '/docs/matic/',
               '/docs/neo/',
               '/docs/skalelabs/',
-              '/docs/stellar/',
               '/docs/tomochain/',	
               '/docs/waykichain/',
               '/docs/upcoming-projects/',
             ]
-           }
+          }
         ]
       }
     ]

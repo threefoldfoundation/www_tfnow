@@ -1,32 +1,31 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/blog-publisher/'
-next: '/docs/crystaltwin/'
+prev: '/docs/tfgrid/'
+next: '/docs/digitalme-id/'
 ---
 
 # DigitalMe
 
 ![](./img/me.png)
 
-## What is happening ?
+## What is happening today?
 
-The centralised **You** exist in many different places. With all online services you leave a little trail of your data, you leave a little piece of you online identity. And this happens over and over with the centralised services you use.  The worst part is:  You don't own this data the online service provider does.  This needs to change
-
-![](./img/fragmented_digital_self_notext.png)
-
-## What should be done and how are we solving the problem ?
-
-Your online data shoud be yours to begin with and stay yours for the full duration of you online presence.  The services you use should be allowed to "see" your data but not own your data. To achieve this **You** should be put in the center and have a digital online self that has knowledge and capabilities to the things you want to do online.
+The "centralized **you**" exists in many different places. With every online service, you leave a little trail of your data and scatter another little piece of your online identity. And this happens over and over with the centralized services you use, creating a lot of data duplication and unnecessary energy consumption. The worst part is: you don't own this data, the online service provider does. This needs to change!
 
 ![](./img/your_digital_self_notext.png)
 
-<!-- These link are no longer valid -->
+## What should be done and How are we solving the problem?
 
-ThreeFold now presents services that use data from you but don't steal and own your data.  Currently ThreeFold now is working on:
+Your online data should be yours to begin with, and should stay yours for the full duration of you online presence. The services you use should be allowed to "see" your data but not own your data. To achieve this, **You** should be put in the center and have a digital online self that has access to your data, and the knowledge and capabilities to the things you want to do online.
+
+<!-- These link are no longer valid
+
+ThreeFold Now presents services that use data from you but don't steal and own your data. Currently ThreeFold now is working on:
  - An office suite of applications, [private and secure document creation and editing](../dmcollab)
  - Project management software [kanban tool](../dmcircles)
  - A peer ti peer video sharing service, [peertube](../video-sharing)
  - Video calling and conferencing done the right way, [peer to peer video conferencing](../video-conf)
  - [Virtual online meeting spaces](../virtual-spaces) to meet, collaborate and cocreate.
 
+-->

@@ -2,28 +2,31 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/gitea/'
-next: '/docs/commento/'
+next: '/docs/serverless/'
 ---
 
 # ZeroCI
 
+*Note: This page is being worked on and will be expanded.*
+
+![](./img/zeroci.png) 
+
+## What is ZeroCI?
+
+[ZeroCI](https://github.com/threefoldtech/zeroCI) is a continuous integration system useful for all languages but has some specific features for python projects that generates test summary into xml file and it is integrated with version control systems and Telegram.
+
+(Note: Version control systems supported are Github and Gitea)
 
 ![](./img/cont_integr.png)
 
-## What is ZeroCI ?
+## Why use ZeroCI?
 
-Take a look here => https://github.com/threefoldtech/zeroCI
+Coming soon ...
 
-ZeroCI is continuous integration system useful for all languages but has some specific features for python projects that generates test summary into xml file and it is integrated with version control systems and Telegram.
+## How to Deploy
 
-(Note: version control systems supported are Github and Gitea)
-
-![](./img/zeroci.png)
-
-## How to Deploy ?
-
-- All steps go here
+Coming soon ...
 
 ## FAQs
 
-- List common issues and questions
+Coming soon ...

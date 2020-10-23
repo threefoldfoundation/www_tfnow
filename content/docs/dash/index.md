@@ -1,18 +1,17 @@
 ---
 description: ''
 sidebar: 'docs'
-next: '/docs/digibyte/'
 prev: '/docs/gridsome/'
+next: '/docs/digibyte/'
 ---
 
-# Dash on ThreeFold
+# Dash
 
 ![](./img/dash1.png)
 
-
 ## Joint Mission
 
-Giving Dash full node and Masternode operators extra IT superpowers.
+Giving Dash Full node and Masternode operators extra IT superpowers!
 
 ## About Dash 
 
@@ -20,18 +19,16 @@ Giving Dash full node and Masternode operators extra IT superpowers.
 
 In addition to Bitcoin’s feature set, Dash currently also offers instant transactions with InstaSend, private transactions with PrivateSend, and operates a self-governing and self-funding model that enables the Dash network to pay individuals and businesses for work that adds value to the network. This decentralized governance and budgeting system makes it one of the first ever successful decentralized autonomous organizations (DAO).
 
-
 ## Dash and ThreeFold
 
 ![](./img/dash2.png)
 
-Dash  has established itself as a leader in the digital currency and Blockchain space with their advanced payment mechanism and highly efficient governance model. With ThreeFold, Dash and its community of Full node and Masternode operators have access to the world's largest P2P cloud capacity and with the ability to easily run Dash nodes at scale and further distribute the network all over the globe, creating an even greater decentralization and data privacy of its DAO infrastructure.
+Dash  has established itself as a leader in the digital currency and Blockchain space with their advanced payment mechanism and highly-efficient governance model. With ThreeFold, Dash and its community of Full node and Masternode operators have access to the world's largest P2P cloud capacity. With that, they have the ability to easily run Dash nodes at scale and further distribute the network all over the globe, bringing even greater decentralization and data privacy to its DAO infrastructure.
 
-Dash enthusiasts, developers, and non-developers use ThreeFold and its 3bot admin to be part of the Dash network by running their own Dash full nodes to help secure the network and get incentivized by doing so, or by running a Dash Masternode for a more advanced contribution to the Dash governance ecosystem. 
+Dash enthusiasts, developers, and non-developers use ThreeFold and its 3Bot Admin Panel to be part of the Dash network by running their own Dash full nodes to help secure the network and get incentivized by doing so, or by running a Dash Masternode for a more advanced contribution to the Dash governance ecosystem. 
 
 ## Get started with Dash
 
-Coming soon:
-You will be able to soon deploy Dash Full nodes and Master nodes via the **ThreeFold NOW Marketplace**'s dashboard in a few clicks.
+**Coming soon:** You will be able to soon deploy Dash Full nodes and Master nodes via the **ThreeFold Now Marketplace**'s dashboard, in just a few clicks.
 
-Stay tuned at **[Threefold NOW Marketplace](https://marketplace.threefold.io)**.
+Stay tuned at **[Threefold Now Marketplace](https://marketplace.threefold.io)**.
