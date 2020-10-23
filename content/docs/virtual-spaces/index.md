@@ -15,7 +15,12 @@ ThreeFold Foundation expects that with global conditions, online collaboration i
 
 ## Do you know about Mozilla Hubs?
 
-Mozilla Hubs is a virtual collaboration platform that runs in your browser. With Hubs, you can create your own 3D spaces with a single click. Invite others to join using a URL. No installation or app store required. Hubs is for anyone who wants to connect with others remotely. It's a great way to bring communities together in a shared virtual space.
+- Mozilla Hubs is a virtual collaboration platform that runs in your browser.
+- With Hubs, you can create your own 3D spaces with a single click.
+- Invite others to join using a URL.
+- No installation or app store required.
+- Hubs is for anyone who wants to connect with others remotely.
+- It's a great way to bring communities together in a shared virtual space.
 
 ## A few use cases for Hubs
 

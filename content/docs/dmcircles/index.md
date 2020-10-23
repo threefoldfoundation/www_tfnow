@@ -21,17 +21,21 @@ A new methodology has been developed to do exactly the same as traditional water
 
 ## Agile tool: Taiga
 
-Taiga is a tool that allows you to run projects following the Agile principles. It presents various well known implementations of the Agile principles and allows you to manage any project in an Agile manner.
-
-Taiga is an [open source project](https://github.com/taigaio) and has a commercial [Software as a Service](https://taiga.io/) version for people that don't want to have the hassle of installing and maintaining it themselves.
+- Taiga is a tool that allows you to run projects following the Agile principles.
+- It presents various well known implementations of the Agile principles and allows you to manage any project in an Agile manner.
+- Taiga is an [open source project](https://github.com/taigaio) and has a commercial [Software as a Service](https://taiga.io/) version for people that don't want to have the hassle of installing and maintaining it themselves.
 
 ## How we work at ThreeFold
 
-At ThreeFold we love the agility and functionality the Taiga project management software provides us with and are using it for a number of different projects we run internally. These projects range from customer-facing and partnership acquisition to ThreeFold Tech product and software development. See the Taiga system working [here](https://circles.threefold.me/discover).
+- At ThreeFold we love the agility and functionality the Taiga project management software provides us with and are using it for a number of different projects we run internally.
+- These projects range from customer-facing and partnership acquisition to ThreeFold Tech product and software development.
+- See the Taiga system working [here](https://circles.threefold.me/discover).
 
 ## How can you and your business benefit?
 
-ThreeFold gives you the ability to have a "one-click" solution to deploy your own project management system in many of the locations where the ThreeFold Grid has capacity. We love the Taiga project and encourage you to help Taiga by paying for a commercial license (https://taiga.io/pricing). We at ThreeFold are planning to ask Taiga to be able to pay for license fees using TFT as part of the deployment wizard.
+ThreeFold gives you the ability to have a "one-click" solution to deploy your own project management system in many of the locations where the ThreeFold Grid has capacity.
+- We love the Taiga project and encourage you to help Taiga by paying for a commercial license (https://taiga.io/pricing).
+- We at ThreeFold are planning to ask Taiga to be able to pay for license fees using TFT as part of the deployment wizard.
 
 Deploying your own instance on the grid provides you with unique features like:
 
