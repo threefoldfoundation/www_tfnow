@@ -8,7 +8,6 @@
 - MacosX : `./install_mac.sh`
 
 ### Run
-- Fisrt time only : `./run --install-dependencies`
 - Quick Run : `./run`
 
 ### build a static website (production only)
