@@ -1,11 +1,11 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/dmoffice/'
-next: '/docs/commento/'
+prev: '/docs/mattermost/'
+next: '/docs/decentralized-dev-intro/'
 ---
 
-# OroCRM
+# CRM
 
 ![](./img/orocrm_1.png)
 
@@ -53,7 +53,6 @@ Create widget which does following
   - Always deploy on ipv6 public
   - Always deploy on webgateway
 
-> PS: We are planning to ask the OroCMR team to be able to pay for license fees using TFT as part of 
-> the wizard.
+> PS: We are planning to ask the OroCMR team to be able to pay for license fees using TFT as part of the wizard.
 
 ![](./img/oro_crm.png)

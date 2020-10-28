@@ -1,8 +1,8 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/mattermost/'
-next: '/docs/virtual-spaces/'
+prev: '/docs/video-sharing/'
+next: '/docs/discourse/'
 ---
 
 # Video Chat

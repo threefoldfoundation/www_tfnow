@@ -5,7 +5,7 @@ prev: '/docs/zeroci/'
 next: '/docs/gridsome/'
 ---
 
-# Serverless
+# Serverless App Framework
 
 *Note: This page is being worked on and will be expanded.*
 

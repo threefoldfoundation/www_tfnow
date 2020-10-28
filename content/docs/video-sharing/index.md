@@ -1,15 +1,15 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/virtual-spaces/'
-next: '/docs/publishing-tool/'
+prev: '/docs/publishing-tool/'
+next: '/docs/video-conf/'
 ---
 
-# PeerTube
+# Video Sharing
 
 ![](./img/peertive_window.png)
 
-*You can access PeerTube on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/peertube).*
+*You can access PeerTube on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/peertube). Please note that the marketplace is currently running on testnet.*
 
 ##  What is a video sharing platform?
 
@@ -63,7 +63,7 @@ Unique characteristics of the platform:
 - The PeerTube software can, whenever necessary, use a peer-to-peer (P2P protocol to broadcast viral videos, lowering the load of their hosts
 > Help PeerTube, as they are [fundraising](https://joinpeertube.org/roadmap). With little, they can make this software even much better than it is today.
 
-**You can access PeerTube on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/peertube).**
+**You can access PeerTube on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/peertube). Please note that the marketplace is currently running on testnet.**
 
 <!--
 

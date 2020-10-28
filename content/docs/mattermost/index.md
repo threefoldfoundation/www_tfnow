@@ -1,15 +1,15 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/commento/'
-next: '/docs/video-conf/'
+prev: '/docs/dmcollab/'
+next: '/docs/dmcustomers/'
 ---
 
-# Mattermost
+# Team Collaboration
 
 ![](./img/mattermost.png)
 
-*You can access Mattermost on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/mattermost).*
+*You can access Mattermost on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/mattermost). Please note that the marketplace is currently running on testnet.*
 
 ## What is Mattermost?
 
@@ -40,4 +40,4 @@ Basically, you won't lose out on [the key functionalities](https://mattermost.co
 
 Bonus! Mattermost has integration features with [Discourse](https://www.discourse.org/), which is also part of the ThreeFold Now suite.
 
-**You can access Mattermost on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/mattermost).**
+**You can access Mattermost on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/mattermost). Please note that the marketplace is currently running on testnet.**

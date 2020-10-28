@@ -1,11 +1,11 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/publishing-tool/'
-next: '/docs/discourse/'
+prev: '/docs/virtual-spaces/'
+next: '/docs/commento/'
 ---
 
-# BookStack
+# Knowledge Base
 
 ![](./img/bookstackintro.png)
 

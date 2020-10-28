@@ -1,8 +1,8 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/video-sharing/'
-next: '/docs/knowledge-base/'
+prev: '/docs/decentralized-we-intro/'
+next: '/docs/video-sharing/'
 ---
 
 # Publishing Tools
@@ -14,6 +14,7 @@ next: '/docs/knowledge-base/'
 - *You can access Website Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/website).*
 - *You can access Blog Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/blog).*
 - *You can access Wiki Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/wiki).*
+-  *Please note that the marketplace is currently running on testnet.*
 
 ## How does it work?
 
@@ -35,9 +36,11 @@ For website (or blog or wiki) creation and management, there are may options ava
 - Blog: https://blog.threefold.io/
 - Wiki: https://info.threefold.io
 
-**You can access Website Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/website).**
-**You can access Blog Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/blog).**
-**You can access Wiki Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/wiki).**
+- **You can access Website Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/website).**
+- **You can access Blog Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/blog).**
+- **You can access Wiki Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/wiki).**
+-  **Please note that the marketplace is currently running on testnet.**
+
 
 <!-- 
 ### Deploy
