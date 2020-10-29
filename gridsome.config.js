@@ -72,7 +72,7 @@ module.exports = {
           {
             title: 'Decentralized Developer',
             items: [
-              '/docs/decentralized-dev-intro',
+              '/docs/decentralized-dev-intro/',
               '/docs/gitea/',
               '/docs/zeroci/',
               '/docs/serverless/',	
@@ -82,7 +82,7 @@ module.exports = {
           {
             title: 'Decentralized Blockchain',
             items: [
-              '/docs/decentralized-bc-intro',
+              '/docs/decentralized-bc-intro/',
               '/docs/dash/',	
               '/docs/digibyte/',
               '/docs/elrond/',
