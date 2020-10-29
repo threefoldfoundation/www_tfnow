@@ -7,6 +7,6 @@ next: '/docs/gitea/'
 
 # Intro
 
-## Many developers understand the importance of decentralization
+## Decentralized Developer solutions support developers looking to build in a decentralized way
 
-[Get help here from Weynand.]
+[Get help here from Weynand or Zaibon.]
