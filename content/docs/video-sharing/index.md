@@ -9,7 +9,7 @@ next: '/docs/video-conf/'
 
 ![](./img/peertive_window.png)
 
-*You can access PeerTube on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/peertube). Please note that the marketplace is currently running on testnet.*
+*You can access the Video Sharing solution on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/peertube). Please note that the marketplace is currently running on testnet.*
 
 ##  What is a video sharing platform?
 
@@ -63,7 +63,12 @@ Unique characteristics of the platform:
 - The PeerTube software can, whenever necessary, use a peer-to-peer (P2P protocol to broadcast viral videos, lowering the load of their hosts
 > Help PeerTube, as they are [fundraising](https://joinpeertube.org/roadmap). With little, they can make this software even much better than it is today.
 
-**You can access PeerTube on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/peertube). Please note that the marketplace is currently running on testnet.**
+## Tutorial: How to Deploy
+
+- First, visit [the Video Sharing solution](https://marketplace.threefold.io/marketplace/#/solutions/peertube) live on the marketplace
+- You'll be asked to enter a solution name – this can be anything and is simply to identify your specific deployment and will also be used in the deployment's unique URL
+- Once you enter this information, all you need to do is wait for the solution to deploy. You can keep an eye on the screen for progress.
+- Upon completion, you'll see a link to view your solution live and it will remain live in your My Workloads section for three hours.
 
 <!--
 

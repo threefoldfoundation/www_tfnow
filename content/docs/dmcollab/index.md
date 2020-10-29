@@ -61,14 +61,11 @@ This is an alternative to Word and Google Docs. It allows you to create document
 
 ![](./img/drive.png)
 
-## How to Deploy
+## Tutorial: How to Deploy
 
-...
+- First, visit [the Office Tools solution](https://marketplace.threefold.io/marketplace/#/solutions/cryptpad) live on the marketplace
+- You'll be asked to enter a solution name – this can be anything and is simply to identify your specific deployment and will also be used in the deployment's unique URL
+- Once you enter this information, all you need to do is wait for the solution to deploy. You can keep an eye on the screen for progress.
+- Upon completion, you'll see a link to view your solution live and it will remain live in your My Workloads section for three hours.
 
-## FAQs
-
-Coming soon ...
-
-Support CryptPad at https://cryptpad.fr/index.html.
-
-**You can access the Office Tools Solution on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/cryptpad). Please note that the marketplace is currently running on testnet.**
+**Support CryptPad at https://cryptpad.fr/index.html.**

@@ -36,13 +36,18 @@ A new methodology has been developed to do exactly the same as traditional water
 - **Customer collaboration** over contract negotiation
 - **Responding to change** over following a plan
 
-## How to Deploy
+## Tutorial: How to Deploy
 
-...
-
-## FAQs
-
-Coming soon ...
+- First, visit [the Project Management solution](https://marketplace.threefold.io/marketplace/#/solutions/taiga) live on the marketplace
+- You'll be asked to enter a solution name – this can be anything and is simply to identify your specific deployment and will also be used in the deployment's unique URL
+- Next you'll be asked to enter an email address, your SMTP information, and a password
+    - For testing purposes please note you do not have to include real information
+    - If you want to test the email functionality for this tool, then you will have to include real information
+        - Email should then be a valid email address you have access to.
+        - If you don't know how to find your SMTP information, best option is to visit your preferred engine and type in "SMTP" or "find SMTP" and your email service and you should find the directions you need.
+        - Password can be made up but again if you do want to test the email functionality, please include your real password for the specified email.
+- Once you enter this information, all you need to do is wait for the solution to deploy. You can keep an eye on the screen for progress.
+- Upon completion, you'll see a link to view your solution live and it will remain live in your My Workloads section for three hours.
 
 <!--
 
@@ -57,5 +62,3 @@ Deploying your own instance on the grid provides you with unique features like:
 - **Decentralized User Authentication**. ThreeFold uses a 2-Factor Authentication system that doe not rely on central storage of a username and password combination.
 
 -->
-
-**You can access the Project Management solution on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/taiga). Please note that the marketplace is currently running on testnet.**

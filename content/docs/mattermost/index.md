@@ -9,7 +9,7 @@ next: '/docs/dmcustomers/'
 
 ![](./img/mattermost.png)
 
-*You can access Mattermost on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/mattermost). Please note that the marketplace is currently running on testnet.*
+*You can access the Team Collaboration solution on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/mattermost). Please note that the marketplace is currently running on testnet.*
 
 ## What is Mattermost?
 
@@ -40,4 +40,9 @@ Basically, you won't lose out on [the key functionalities](https://mattermost.co
 
 Bonus! Mattermost has integration features with [Discourse](https://www.discourse.org/), which is also part of the ThreeFold Now suite.
 
-**You can access Mattermost on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/mattermost). Please note that the marketplace is currently running on testnet.**
+## Tutorial: How to Deploy
+
+- First, visit [the Team Collaboration solution](https://marketplace.threefold.io/marketplace/#/solutions/mattermost) live on the marketplace
+- You'll be asked to enter a solution name – this can be anything and is simply to identify your specific deployment and will also be used in the deployment's unique URL
+- Once you enter this information, all you need to do is wait for the solution to deploy. You can keep an eye on the screen for progress.
+- Upon completion, you'll see a link to view your solution live and it will remain live in your My Workloads section for three hours.

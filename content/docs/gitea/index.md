@@ -9,7 +9,7 @@ next: '/docs/zeroci/'
 
 ![](./img/gitea.png)
 
-*You can access Gitea on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/gitea). Please note that the marketplace is currently running on testnet.*
+*You can access the Git Service solution on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/gitea). Please note that the marketplace is currently running on testnet.*
 
 ## What is Gitea?
 
@@ -47,14 +47,9 @@ In the end, it is a powerful alternative to e.g. centralized Github.
 
 Coming soon ...
 
-## How to Deploy
+## Tutorial: How to Deploy
 
-The widget on the TF Marketplace allows you to deploy a Gitea instance by answering a few questions: 
-
-- [ ] **Choose a name for you solution.** This name will identify this Gitea deployment in solutions overview and will form a part of the unique URL to access the repository. 
-- [ ] **Predefined locations for the demo deployments.** In the future this will be expanded and you will be able to choose your deployment location on any of the TF Grid 3Nodes.
-- [ ] This will deploy the Gitea software on testnet and provide you with a URL to do the configuration of the Gitea software.
-
-## FAQs (Coming Soon)
-
-**You can access Gitea on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/gitea). Please note that the marketplace is currently running on testnet.**
+- First, visit [the Git Service solution](https://marketplace.threefold.io/marketplace/#/solutions/gitea) live on the marketplace
+- You'll be asked to enter a solution name – this can be anything and is simply to identify your specific deployment and will also be used in the deployment's unique URL
+- Once you enter this information, all you need to do is wait for the solution to deploy. You can keep an eye on the screen for progress.
+- Upon completion, you'll see a link to view your solution live and it will remain live in your My Workloads section for three hours.

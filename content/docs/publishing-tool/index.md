@@ -22,24 +22,36 @@ For website (or blog or wiki) creation and management, there are may options ava
 
 ![](./img/wiki_deployment_1.png)
 
-## What do you need to do?
+## Tutorial: How to Deploy
 
-- The basic principle is that you create the content in the repository (html, markdown, and other) and store it in a repository. Content creation can be done with any tools that you have experience with (or like).
-- The only requirement is that you store the content in a public repository. This repository can be anything that stores code and provides version controlling. For example, you can use Github, but also ThreeFold's decentralized Gitea solution.
-- The actual deployment of the webserver infrastructure and all required domain name setup for the website to be publicly available is done in the one-click (and three question) deployment.
+*Please note that in order to deploy a website, blog, or wiki using these tools you'll need some technical knowledge of Git.*
 
-![](./img/blog_browser_1.png)
+- First, visit [the marketplace](https://marketplace.threefold.io/) and find the Website, Blog, or Wiki Publisher solution
+- You'll be asked to enter a solution name – this can be anything and is simply to identify your specific deployment and will also be used in the deployment's unique URL
+- Then you'll need to add a title, repository URL, and branch
+  - Title is the name of your website, blog, or wiki
+  - Repository is a valid Git repository where your content lives
+    - The basic principle is that you create the content in the repository (HTML, markdown, and other) and store it in a repository. Content creation can be done with any tools that you have experience with (or like).
+    - The only requirement is that you store the content in a public repository. This repository can be anything that stores code and provides version controlling. For example, you can use Github, but also ThreeFold's decentralized Gitea solution.
+    - The actual deployment of the webserver infrastructure and all required domain name setup for the website to be publicly available is done in the one-click (and three question) deployment.
+  - Branch is the deployment branch on your Git repository to be used as the version of content you want live on your website, wiki, or blog
+- Once you enter this information, all you need to do is wait for the solution to deploy. You can keep an eye on the screen for progress.
+- Upon completion, you'll see a link to view your solution live and it will remain live in your My Workloads section for three hours.
 
-## Examples
+## Repository Examples
+
+- Website: https://github.com/xmonader/www_incubaid
+- Blog: https://github.com/threefoldfoundation/www_tfblog
+- Wiki: https://github.com/threefoldfoundation/info_gridmanual
+- [Repository Structure Info](https://github.com/crystaluniverse/publishingtools/blob/development/docs/repo_layout.md)
+
+## Live Examples
 
 - Website: https://www.threefold.io/
 - Blog: https://blog.threefold.io/
 - Wiki: https://info.threefold.io
 
-- **You can access Website Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/website).**
-- **You can access Blog Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/blog).**
-- **You can access Wiki Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/wiki).**
--  **Please note that the marketplace is currently running on testnet.**
+![](./img/blog_browser_1.png)
 
 
 <!-- 
