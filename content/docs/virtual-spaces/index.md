@@ -1,11 +1,11 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/video-conf/'
-next: '/docs/video-sharing/'
+prev: '/docs/discourse/'
+next: '/docs/knowledge-base/'
 ---
 
-# Mozilla Hubs
+# Virtual Spaces
 
 ![](./img/hubs.png)
 

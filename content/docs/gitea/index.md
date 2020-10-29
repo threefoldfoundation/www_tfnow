@@ -1,15 +1,15 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/discourse/'
+prev: '/docs/decentralized-dev-intro/'
 next: '/docs/zeroci/'
 ---
 
-# Gitea
+# Git Service
 
 ![](./img/gitea.png)
 
-*You can access Gitea on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/gitea).*
+*You can access Gitea on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/gitea). Please note that the marketplace is currently running on testnet.*
 
 ## What is Gitea?
 
@@ -57,4 +57,4 @@ The widget on the TF Marketplace allows you to deploy a Gitea instance by answer
 
 ## FAQs (Coming Soon)
 
-**You can access Gitea on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/gitea).**
+**You can access Gitea on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/gitea). Please note that the marketplace is currently running on testnet.**

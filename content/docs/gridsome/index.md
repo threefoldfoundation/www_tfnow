@@ -2,10 +2,10 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/serverless/'
-next: '/docs/dash/'
+next: '/docs/decentralized-bc-intro/'
 ---
 
-# Gridsome
+# Modern Site Generator
 
 *Note: This page is being worked on and will be expanded.*
 

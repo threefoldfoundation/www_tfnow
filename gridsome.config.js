@@ -29,6 +29,8 @@ module.exports = {
             title: 'Getting Started',
             items: [
               '/docs/',
+              '/docs/why-threefold-now/',
+              '/docs/how-threefold-now/',
             ]
           },
           {
@@ -46,30 +48,32 @@ module.exports = {
             ]
           },
           {
-            title: 'Collaboration Tools',
+            title: 'Decentralized We',
             items: [
-              '/docs/dmcollab/',
-              '/docs/dmcircles/',
-	            '/docs/dmoffice/',
-              '/docs/dmcustomers/',
-              '/docs/commento/',
-              '/docs/mattermost/',
-            ]
-          },
-          {
-            title: 'Web & Social Tools',
-            items: [
-              '/docs/video-conf/',
-              '/docs/virtual-spaces/',
-              '/docs/video-sharing/',
+              '/docs/decentralized-we-intro/',
               '/docs/publishing-tool/',
-              '/docs/knowledge-base/',
+              '/docs/video-sharing/',
+              '/docs/video-conf/',
               '/docs/discourse/',
+              '/docs/virtual-spaces/',
+              '/docs/knowledge-base/',
+              '/docs/commento/',
             ]
           },
           {
-            title: 'Developer Tools',
+            title: 'Decentralized Office',
             items: [
+              '/docs/decentralized-office-intro/',
+              '/docs/dmcircles/',
+              '/docs/dmcollab/',
+              '/docs/mattermost/',
+              '/docs/dmcustomers/',
+            ]
+          },
+          {
+            title: 'Decentralized Developer',
+            items: [
+              '/docs/decentralized-dev-intro/',
               '/docs/gitea/',
               '/docs/zeroci/',
               '/docs/serverless/',	
@@ -77,8 +81,9 @@ module.exports = {
             ]
           },
           {
-            title: 'Blockchain Solutions',
+            title: 'Decentralized Blockchain',
             items: [
+              '/docs/decentralized-bc-intro/',
               '/docs/dash/',	
               '/docs/digibyte/',
               '/docs/elrond/',

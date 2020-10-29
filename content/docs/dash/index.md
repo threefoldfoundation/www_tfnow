@@ -1,7 +1,7 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/gridsome/'
+prev: '/docs/decentralized-bc-intro/'
 next: '/docs/digibyte/'
 ---
 
