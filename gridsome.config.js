@@ -81,9 +81,9 @@ module.exports = {
             ]
           },
           {
-            title: 'Decentralized Blockchain',
+            title: 'Blockchain Solutions',
             items: [
-              '/docs/decentralized-bc-intro/',
+              '/docs/blockchain-solutions-intro/',
               '/docs/dash/',	
               '/docs/digibyte/',
               '/docs/elrond/',
