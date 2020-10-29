@@ -1,7 +1,8 @@
 ---
 description: ''
-sidebar: 'why-threefold-now'
-next: '/tfgrid/'
+sidebar: 'docs'
+next: '/docs/tfgrid/'
+prev: '/docs/why-threefold-now/'
 ---
 
 # How to use ThreeFold Now
