@@ -2,21 +2,21 @@
   "publicPath": "/now2/",
   "all": [
     "assets/css/0.styles.7945bf97.css",
-    "assets/js/app.8d8c7f01.js",
+    "assets/js/app.b7148ed4.js",
     "assets/js/page--src--pages--404-vue.690dcbb6.js",
     "assets/js/page--src--pages--index-vue.14f06f20.js",
     "assets/js/page--src--templates--markdown-page-vue.c346dbfe.js",
-    "assets/js/search.7fdb8242.js"
+    "assets/js/search.fe9cd32e.js"
   ],
   "initial": [
     "assets/css/0.styles.7945bf97.css",
-    "assets/js/app.8d8c7f01.js"
+    "assets/js/app.b7148ed4.js"
   ],
   "async": [
     "assets/js/page--src--pages--404-vue.690dcbb6.js",
     "assets/js/page--src--pages--index-vue.14f06f20.js",
     "assets/js/page--src--templates--markdown-page-vue.c346dbfe.js",
-    "assets/js/search.7fdb8242.js"
+    "assets/js/search.fe9cd32e.js"
   ],
   "modules": {
     "16237210": [
