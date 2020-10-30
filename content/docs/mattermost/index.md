@@ -11,7 +11,9 @@ next: '/docs/dmcustomers/'
 
 *You can access the Team Collaboration solution on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/mattermost). Please note that the marketplace is currently running on testnet.*
 
-## What is Mattermost?
+With the world moving more and more into remote working, the team collaboration platforms are becoming highly-important. There are some well-known tools out there but they come with the downfalls of many centralized solutions – lack of security and privacy, and operating in closed source environments.
+
+## Open Source Solution: Mattermost
 
 [Mattermost](https://mattermost.com/) is an widely-trusted open source and self-hosted Slack alternative – a messaging platform that enables secure team collaboration.
 

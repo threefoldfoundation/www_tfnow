@@ -9,13 +9,11 @@ next: '/docs/knowledge-base/'
 
 ![](./img/hubs.png)
 
-## Taking collaboration to the next level
-
 ThreeFold Foundation expects that with global conditions, online collaboration in virtual spaces will continue to increase in popularity, and tools to create interesting virtual spaces will help to inspire us to enjoy virtual meetup experiences, to collaborate, and to co-create.
 
-## Do you know about Mozilla Hubs?
+## Open Source Solution: Mozilla Hubs
 
-- Mozilla Hubs is a virtual collaboration platform that runs in your browser.
+- [Mozilla Hubs](https://hubs.mozilla.com/) is a virtual collaboration platform that runs in your browser.
 - With Hubs, you can create your own 3D spaces with a single click.
 - Invite others to join using a URL.
 - No installation or app store required.
@@ -39,3 +37,7 @@ Hubs cloud is available on hosters that present a centralized cloud platform sol
 The TF Grid offers a solution where you can rent capacity anywhere on the TF Grid (please find the explorer [here]((https://explorer.grid.tf/)) and deploy the hubs software similar to what the experience on a cloud would be. Or you can take it one step further and create your own TF Grid capacity, earn digital currency by doing so, and have your own hosted infrastructure for your digital hubs where you feel comfortable having it.
 
 More details coming soon!
+
+## Tutorial: How to Deploy
+
+Coming soon – the Virtual Spaces solution is not yet available on the marketplace.

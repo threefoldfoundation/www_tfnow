@@ -11,11 +11,7 @@ next: '/docs/discourse/'
 
 *You can access the Video Chat solution on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/meetings). Please note that the marketplace is currently running on testnet.*
 
-## Quick Background
-
-- Online services that provided end user-friendly video conferencing solutions are in high demand, and many of the providers of such services have seen a tremendous increase in usage statistics.
-- Using centralized services for video conferencing creates silos of users that can communicate because they use the same tool.
-- And it allows the man in the middle – the video conferencing platform – to collect and market data captured by end user usage.
+Online services that provided end user-friendly video conferencing solutions are in high demand, and many of the providers of such services have seen a tremendous increase in usage statistics. Using centralized services for video conferencing creates silos of users that can communicate because they use the same tool. And it allows the man in the middle – the video conferencing platform – to collect and market data captured by end user usage.
 
 ## How do other solutions work?
 

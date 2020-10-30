@@ -16,9 +16,19 @@ next: '/docs/video-sharing/'
 - *You can access Wiki Publisher on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/wiki).*
 -  *Please note that the marketplace is currently running on testnet.*
 
-## How does it work?
+For website (or blog or wiki) creation and management, there are may options available in the market. From total end-to-end solutions like Squarespace to do-it-yourself (and select the tools and software to run your website). ThreeFold has created publishing tools that allow for deployment and management with version control, automatic update, and staging facilities.
 
-For website (or blog or wiki) creation and management, there are may options available in the market. From total end-to-end solutions like Squarespace to do-it-yourself and select the tools and software to run your website. ThreeFold has created publishing tools that allow for deployment and management with version control, automatic update, and staging facilities.
+## Why use these solutions?
+
+While the tools available in the market tend to make things quite easy, they come with disadvantaged.
+
+- Primarily, they run your website on centralized cloud solutions, which brings strong issues around privacy and security.
+- In addition, website builders generate closed source websites
+  - This means you cannot access and export your work from these platforms easily
+  - And you are stuck with the feature sets of these platforms until they decide to expand
+  - Open source gives full control to website creators and full flexibility
+
+Note that building and deploying a website using these tools does require more technical know-how and obviously the ease of use of website builders is a huge draw. So, in the short term this is not for everybody, but we'll be optimizing this for the everyday person as we go.
 
 ![](./img/wiki_deployment_1.png)
 

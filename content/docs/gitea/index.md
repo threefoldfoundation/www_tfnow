@@ -11,7 +11,9 @@ next: '/docs/zeroci/'
 
 *You can access the Git Service solution on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/gitea). Please note that the marketplace is currently running on testnet.*
 
-## What is Gitea?
+Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows. Git is widely used by developers globally.
+
+## Open Source Solution: Gitea
 
 [Gitea](https://gitea.io/en-us/) is a painless, self-hosted Git service. It is similar to GitHub, Bitbucket, and GitLab. Gitea is a fork of Gogs.
 
@@ -37,15 +39,11 @@ Torvalds sarcastically quipped about the name git (which means "unpleasant perso
 - "global information tracker": you're in a good mood, and it actually works for you. Angels sing, and a light suddenly fills the room.
 - "goddamn idiotic truckload of sh*t": when it breaks
 
-Git since then has become a standard for developers to use globally and many commercial (centralized) versions of the software have been created.  Github (acquired by Microsoft) and Gitlab being well known service providers of Git services.
+Git since then has become a standard for developers to use globally and many commercial (centralized) versions of the software have been created. Github (acquired by Microsoft) and Gitlab being well known service providers of Git services.
 
 In the end, it is a powerful alternative to e.g. centralized Github.
 
 - More info see https://gitea.io/
-
-## Why use Gitea?
-
-Coming soon ...
 
 ## Tutorial: How to Deploy
 

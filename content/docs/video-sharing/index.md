@@ -11,15 +11,16 @@ next: '/docs/video-conf/'
 
 *You can access the Video Sharing solution on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/peertube). Please note that the marketplace is currently running on testnet.*
 
-##  What is a video sharing platform?
+If you use the Internet, you are surely familiar with video sharing. Sites like YouTube and Vimeo are the biggest examples. They are highly-popular, particularly with the mass market for camera phones and smartphones increasing the supply of user-generated videos.
+
+## What is a video sharing platform?
 
 - Since the early 2010s, with the increasing prevalence of technology and the Internet in everyday life, video hosting services have served as a portal to different forms of entertainment (comedy, games shows, games, or music), news, documentaries and educational videos.
 - Content may be user-generated / amateur clips or commercial-level products.
 - The entertainment industry uses this medium to release music, videos, movies and television shows directly to the public.
 - Video hosting services are becoming more & more popular, especially with the explosion in popularity of blogs, Internet forums and other interactive pages.
-- The mass market for camera phones and smartphones has increased the supply of user-generated videos. 
 
-##  Why is video sharing getting popular?
+## Why is video sharing getting popular?
 
 - Traditional methods of personal video distribution, such as making a DVD to show to friends at home, are unsuited to the high volume of camera phone clips.
 - In contrast, current broadband Internet connections are well suited to serving video shot on mobile phones.
@@ -28,11 +29,11 @@ next: '/docs/video-conf/'
 - Most of these platforms have built a business model around tracking video consumption interests and statistics, and using this data for marketing purposes or selling it to organizations for (big) data analysis.
 - They can do so because the platform forms the central hub (in a hub and spoke model) where video producers reach video consumers by using this platform to connect.
 
-##  What makes our solution different?
+## What makes our solution different?
 
 ThreeFold advocates that video sharing can also exist without this central platform (and organization) in the middle. You as a producer or consumer can create your own facility to share videos. There is open source software available to do so.
 
-## Decentralized video sharing platform
+## Open Source Solution: PeerTube
 
 - ThreeFold endorses [PeerTube's](https://joinpeertube.org/) decentralized implementation of a video sharing platform. The open source project has a [roadmap](https://joinpeertube.org/roadmap) that is ambitious and needs support. Please help us to help PeerTube.
 - PeerTube is a free and open source video platform that was officially launched on October 11, 2018, and is intended to offer an alternative to platforms such as YouTube, Vimeo, and Dailymotion.
