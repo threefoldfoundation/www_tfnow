@@ -1,32 +1,41 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/dmoffice/'
-next: '/docs/commento/'
+prev: '/docs/mattermost/'
+next: '/docs/decentralized-dev-intro/'
 ---
 
-# OroCRM
+# CRM
 
 ![](./img/orocrm_1.png)
 
-Customer Relationship Management (CRM) means knowing your customers inside and out, while being able to anticipate future needs. Whether you’re looking for a sales CRM, a marketing CRM, or something in between, our CRM tools will help put your business on the path to success.
+Customer Relationship Management (CRM) means knowing your customers inside and out, while being able to anticipate future needs. Businesses small and large all around the world are looking for tools to be able to manage their customer relationships. And when it comes to customer data, safety and security are of the highest priority.
 
-[OroCRM](https://oroinc.com/orocrm/) provides a full featured CRM system that provides fantastic functionality:
+## Open Source Solution: OroCRM
+
+[OroCRM](https://oroinc.com/orocrm/) allows you to grow your business using a highly-flexible CRM.
+
+## Why OroCRM?
+
+OroCRM provides a full featured CRM system that provides fantastic functionality:
+
 - Accounts and Contacts Management
 - Leads and Opportunities Management
 - 360° View of Your Customer
 - Sales and Marketing Performance Dashboards
 
-## Did you know about OroCRM?
+And provides the safety and security you are looking for when it comes to your customers' data.
 
 ![](./img/orocrm_screenshot1.png)
 
 > This software is supported & created by https://oroinc.com/ <BR>
 > Please contact them for any support or commercial license.
 
-## How to Deploy on the TF Grid
+## Tutorial: How to Deploy
 
-Create widget which does following
+Coming soon – the CRM solution is not yet available on the marketplace.
+
+<!-- Create widget which does following
 
 - [ ] Choose a size: small/mid/large
   - Small recommended < 5 people
@@ -53,7 +62,8 @@ Create widget which does following
   - Always deploy on ipv6 public
   - Always deploy on webgateway
 
-> PS: We are planning to ask the OroCMR team to be able to pay for license fees using TFT as part of 
-> the wizard.
+  -->
+
+> PS: We are planning to ask the OroCMR team to be able to pay for license fees using TFT as part of the wizard.
 
 ![](./img/oro_crm.png)

@@ -1,21 +1,24 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/crystaltwin/'
-next: '/docs/dmcircles/'
+prev: '/docs/dmcircles/'
+next: '/docs/mattermost/'
 ---
 
-# CryptPad
+# Office Tools
 
 ![](./img/what_is_cryptpad.png)
 
-*You can access CryptPad on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/cryptpad).*
+*You can access the Office Tools solution on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/cryptpad). Please note that the marketplace is currently running on testnet.*
 
-## Why CryptPad?
+Nearly everyone that uses a computer for work is using some type of Office solution whether it be through Microsoft or Google or both. So this solution was a no-brainer.
 
-Many alternatives are available to the the dominant office tools from Microsoft and Google, but ThreeFold endorses and supports the CryptPad.fr open-source CryptPad project.
+## Open Source Solution: CryptPad
 
-- [CryptPad](https://cryptpad.fr/what-is-cryptpad.html) is a private-by-design alternative to popular office tools and cloud services.
+Many alternatives are available to the the dominant office tools from Microsoft and Google, but ThreeFold endorses and supports the [CryptPad.fr](https://cryptpad.fr) open-source CryptPad project – a private-by-design alternative.
+
+## Why Cryptpad?
+
 - It has most of the same crucial functionalities you would be used to with existing tools.
 - More importantly, all the content stored on CryptPad is encrypted before being sent, which means nobody can access your data unless you give them the keys (not even us).
 - Encryption happens in the browser that is used to access the "pads" – and therefore the central storage facility used does not see un-encrypted data and only sees encrypted data passing by.
@@ -58,6 +61,11 @@ This is an alternative to Word and Google Docs. It allows you to create document
 
 ![](./img/drive.png)
 
-Support CryptPad at https://cryptpad.fr/index.html.
+## Tutorial: How to Deploy
 
-**You can access CryptPad on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/cryptpad).**
+- First, visit [the Office Tools solution](https://marketplace.threefold.io/marketplace/#/solutions/cryptpad) live on the marketplace
+- You'll be asked to enter a solution name – this can be anything and is simply to identify your specific deployment and will also be used in the deployment's unique URL
+- Once you enter this information, all you need to do is wait for the solution to deploy. You can keep an eye on the screen for progress.
+- Upon completion, you'll see a link to view your solution live and it will remain live in your My Workloads section for three hours.
+
+**Support CryptPad at https://cryptpad.fr/index.html.**

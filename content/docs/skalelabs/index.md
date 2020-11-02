@@ -15,7 +15,10 @@ Solving scalability and decentralization limitations faced by Ethereum developer
 
 ## About SKALE Labs
 
-**[SKALE](https://skale.network/)** is an elastic blockchain network that gives developers the ability to easily provision highly configurable fully decentralized chains that are instantly compatible with Ethereum. SKALE chains can execute sub-second block times, run up to 2,000 tps per chain, and run full-state smart contracts in addition to decentralized storage, execute Rollups, and machine learning in EVM. The SKALE Network is an open-source project with many contributors including SKALE Labs.
+**[SKALE](https://skale.network/)** is an elastic blockchain network that gives developers the ability to easily provision highly configurable fully decentralized chains that are instantly compatible with Ethereum.
+
+- SKALE chains can execute sub-second block times, run up to 2,000 tps per chain, and run full-state smart contracts in addition to decentralized storage, execute Rollups, and machine learning in EVM.
+- The SKALE Network is an open-source project with many contributors including SKALE Labs.
 
 ## SKALE Labs and ThreeFold
 

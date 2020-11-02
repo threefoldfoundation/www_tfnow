@@ -1,15 +1,17 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/publishing-tool/'
-next: '/docs/discourse/'
+prev: '/docs/virtual-spaces/'
+next: '/docs/commento/'
 ---
 
-# BookStack
+# Knowledge Base
 
 ![](./img/bookstackintro.png)
 
-## What is BookStack?
+While not everybody is in the business of creating wikis, it's important we have easy-to-use and beautiful-to-consume ways of creating and categorizing information. The applications for this are endless, and we see a lot of relevance for the education space.
+
+## Open Source Solution: BookStack
 
 [BookStack](https://www.bookstackapp.com/) is "a simple, self-hosted, easy-to-use platform for organizing and storing information." And it's open source!
 
@@ -29,3 +31,7 @@ We really liked BookStack when we were looking around for a wiki publisher. It's
 You can learn more about these benefits and dig in to the platform on [the BookStack website](https://www.bookstackapp.com/).
 
 ![](./img/booksorting.png)
+
+## Tutorial: How to Deploy
+
+Coming soon – the Knowledge Base solution is not yet available on the marketplace.

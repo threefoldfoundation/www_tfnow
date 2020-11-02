@@ -2,16 +2,16 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/serverless/'
-next: '/docs/dash/'
+next: '/docs/decentralized-bc-intro/'
 ---
 
-# Gridsome
+# Modern Site Generator
 
 *Note: This page is being worked on and will be expanded.*
 
 ![](./img/gridsome3.png)
 
-## What is Gridsome?
+## Open Source Solution: Gridsome
 
 [Gridsome](https://gridsome.org/) is a jamstack framework – a free & open source Vue.js-powered framework for building websites & apps that are fast by default.
 
@@ -27,14 +27,14 @@ More info on https://gridsome.org/.
 
 ## How is it related to our grid?
 
-- Directly deploy on TFGrid
+- Directly deploy on TF Grid
 - Build & test before deploy
 
 More coming ...
 
-## How to Deploy
+## Tutorial: How to Deploy
 
-Coming ...
+Coming soon – the Modern Site Generator solution is not yet available on the marketplace.
 
 ## FAQs
 

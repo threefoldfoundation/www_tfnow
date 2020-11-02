@@ -2,7 +2,7 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/digitalme-id/'
-next: '/docs/dmcollab/'
+next: '/docs/decentralized-we-intro/'
 ---
 
 # Crystal Twin
