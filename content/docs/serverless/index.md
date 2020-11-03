@@ -5,7 +5,7 @@ prev: '/docs/zeroci/'
 next: '/docs/gridsome/'
 ---
 
-# Serverless App Framework
+# Serverless
 
 *Note: This page is being worked on and will be expanded.*
 
@@ -13,7 +13,7 @@ next: '/docs/gridsome/'
 
 Software is eating the world. Unfortunately, most businesses still can't deliver software successfully, and very few do so at the pace needed to stay competitive. For those who wish to keep up, let alone lead, software delivery & operation must be radically simplified.
 
-## Open Source Solution: Serverless
+## What is Serverless?
 
 [Serverless](https://www.serverless.com/) is built on next-generation public cloud services that auto-scale and charge only when used. When scale, capacity planning & cost management are automated, the result is software that's easier to build, maintain, and often up-to 99% cheaper.
 
@@ -31,3 +31,4 @@ Coming ...
 
 Coming ...
 
+More info on https://www.serverless.com/.

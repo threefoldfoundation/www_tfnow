@@ -1,23 +1,21 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/knowledge-base/'
-next: '/docs/decentralized-office-intro/'
+prev: '/docs/dmcustomers/'
+next: '/docs/mattermost/'
 ---
 
-# Comments Widget
+# Commento
 
 *Note: This page is being worked on and will be expanded.*
 
 ![](./img/commento.png)
 
-Today, there are various solutions out there like Disqus and Facebook which allow you to comment on blog posts, articles, and other online content with a simple login. These tools are easy-to-use and free, but they come with the "cost" of giving up your privacy and personal data.
-
-## Open Source Solution: Commento
+## What is Commento?
 
 It's quite simple, [Commento](https://commento.io/) lets you embed comments without giving up your privacy.
 
-## Why Commento?
+## Why use Commento?
 
 We are very much in line with Commento and they say "why" best themselves:
 
@@ -31,8 +29,8 @@ Commento does come with a cost, but as they say on their site, "Services like Di
 
 ## How to Deploy
 
-Coming soon – the Comments Widget is not yet available on the marketplace.
+Coming ...
 
 ## FAQs
 
-Coming soon ...
+Coming ...

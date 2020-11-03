@@ -1,1 +1,0 @@
-gridsome build

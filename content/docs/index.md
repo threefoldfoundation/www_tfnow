@@ -1,21 +1,47 @@
 ---
 description: ''
 sidebar: 'docs'
-next: '/docs/why-threefold-now/'
+next: '/docs/tfgrid/'
 ---
 
-# What Is ThreeFold Now?
+# Introduction
+
+## What Is ThreeFold Now?
 
 **ThreeFold has created the largest active peer-to-peer cloud on the planet — but the Internet is more than just storage and capacity. To fully realize the vision of an Internet built for everyone, by everyone, we need easy-to-use and easy-to-deploy alternatives to the online tools and applications we use most.**
 
-From publishing to video hosting, communication to project management, ThreeFold has developed a suite of turnkey solutions for anyone to create, share, and build on the decentralized and secure [ThreeFold Grid](https://threefold.io).
-
-Many more solutions will be added in the future. ThreeFold Now is a marketplace that will continue to grow, a marketplace of decentralized applications that will set us free.
+From publishing to video hosting, communication to project management, ThreeFold has developed a suite of turnkey solutions for end-users to create, share and build on the decentralized and secure [ThreeFold Grid](https://threefold.io). 
 
 **The Internet of tomorrow, available today — this is [ThreeFold Now](https://marketplace.threefold.io).**  
 
 ![](./index/img/demo_site_overview.png)
 
-*Please note that ThreeFold Now is currently operating in demo mode on testnet. Your deployments will be cancelled after three hours automatically.*
+## Why It Matters
 
-*The tools still require some technical know-how, but 1. we have tutorials tied to each live solution and 2. are very happy with progress until today. We firmly believe there is nothing else out there like ThreeFold Now.*
+While the current Internet has plenty of apps, games and gadgets to keep you busy, they come with a few caveats: 
+
+- **"Free" but with a price.**
+    - Many of these apps may be free to download and use, but what you may not know is that the companies providing these apps track and gather your personal information, online activity, and other data
+    - This data can then be sold to marketers, credit agencies and other third parties without your knowledge or consent.
+    - You might think you're getting a free product, but in reality it's the other way around — the product is actually you.
+- **Your content, their property.**
+    - You spend countless hours creating and sharing content on social media, winning items in games, and building up a following.
+    - You'd think you own this digital "property," but think again — with most sites and platforms, the companies themselves actually own it, and use it to generate traffic and revenue without you receiving your fair share.
+    - And when you close your account or the game is discontinued, you lose your content and your access. 
+
+## Why Use ThreeFold Now (Features / Benefits)
+
+- You are in the center, not a third-party service provider!
+- Easy-to-deploy and ready-to-use 
+- Create a decentralized instance that you entirely own and manage
+- Full data privacy and ownership
+- Securely hosted on the peer-to-peer ThreeFold Grid
+- Pay only for the capacity that you use — no hidden fees or selling of your data
+
+## How to Use 
+
+**Visit the ThreeFold Now Marketplace [here](https://marketplace.threefold.io):**
+
+- Choose the solution you want to launch from the menu
+- Use the guided setup to create your solution
+- Start building!

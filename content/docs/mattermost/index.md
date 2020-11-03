@@ -1,19 +1,17 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/dmcollab/'
-next: '/docs/dmcustomers/'
+prev: '/docs/commento/'
+next: '/docs/video-conf/'
 ---
 
-# Team Collaboration
+# Mattermost
 
 ![](./img/mattermost.png)
 
-*You can access the Team Collaboration solution on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/mattermost). Please note that the marketplace is currently running on testnet.*
+*You can access Mattermost on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/mattermost).*
 
-With the world moving more and more into remote working, the team collaboration platforms are becoming highly-important. There are some well-known tools out there but they come with the downfalls of many centralized solutions – lack of security and privacy, and operating in closed source environments.
-
-## Open Source Solution: Mattermost
+## What is Mattermost?
 
 [Mattermost](https://mattermost.com/) is an widely-trusted open source and self-hosted Slack alternative – a messaging platform that enables secure team collaboration.
 
@@ -42,9 +40,4 @@ Basically, you won't lose out on [the key functionalities](https://mattermost.co
 
 Bonus! Mattermost has integration features with [Discourse](https://www.discourse.org/), which is also part of the ThreeFold Now suite.
 
-## Tutorial: How to Deploy
-
-- First, visit [the Team Collaboration solution](https://marketplace.threefold.io/marketplace/#/solutions/mattermost) live on the marketplace
-- You'll be asked to enter a solution name – this can be anything and is simply to identify your specific deployment and will also be used in the deployment's unique URL
-- Once you enter this information, all you need to do is wait for the solution to deploy. You can keep an eye on the screen for progress.
-- Upon completion, you'll see a link to view your solution live and it will remain live in your My Workloads section for three hours.
+**You can access Mattermost on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/mattermost).**

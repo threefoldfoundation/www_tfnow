@@ -29,8 +29,6 @@ module.exports = {
             title: 'Getting Started',
             items: [
               '/docs/',
-              '/docs/why-threefold-now/',
-              '/docs/how-threefold-now/',
             ]
           },
           {
@@ -48,32 +46,30 @@ module.exports = {
             ]
           },
           {
-            title: 'Decentralized We',
+            title: 'Collaboration Tools',
             items: [
-              '/docs/decentralized-we-intro/',
-              '/docs/publishing-tool/',
-              '/docs/video-sharing/',
-              '/docs/video-conf/',
-              '/docs/discourse/',
-              '/docs/virtual-spaces/',
-              '/docs/knowledge-base/',
-              '/docs/commento/',
-            ]
-          },
-          {
-            title: 'Decentralized Office',
-            items: [
-              '/docs/decentralized-office-intro/',
-              '/docs/dmcircles/',
               '/docs/dmcollab/',
-              '/docs/mattermost/',
+              '/docs/dmcircles/',
+	            '/docs/dmoffice/',
               '/docs/dmcustomers/',
+              '/docs/commento/',
+              '/docs/mattermost/',
             ]
           },
           {
-            title: 'Decentralized Developer',
+            title: 'Web & Social Tools',
             items: [
-              '/docs/decentralized-dev-intro/',
+              '/docs/video-conf/',
+              '/docs/virtual-spaces/',
+              '/docs/video-sharing/',
+              '/docs/publishing-tool/',
+              '/docs/knowledge-base/',
+              '/docs/discourse/',
+            ]
+          },
+          {
+            title: 'Developer Tools',
+            items: [
               '/docs/gitea/',
               '/docs/zeroci/',
               '/docs/serverless/',	
@@ -83,7 +79,6 @@ module.exports = {
           {
             title: 'Blockchain Solutions',
             items: [
-              '/docs/blockchain-solutions-intro/',
               '/docs/dash/',	
               '/docs/digibyte/',
               '/docs/elrond/',

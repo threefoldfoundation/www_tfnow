@@ -1,45 +1,31 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/how-threefold-now/'
+prev: '/docs/'
 next: '/docs/digitalme/'
 ---
 
-# The ThreeFold Grid
-
-ThreeFold Now would not be possible without the ThreeFold Grid. So, we'll provide a bit of context on the grid here. **You can feel free to skip to the next section if you're already familiar.**
-
-## The Internet's Origins & Centralized Cloud
-
-The Internet started in the last century as a sharing mechanism by people, for people. Somehow along the way, it morphed into an oligopolistic market where a few companies own and rule it all.
-
-- This is not in line with the original intention of the Internet or what the Internet was all about.
-- Further, an increasing number of people are realizing that the current delivery model for cloud services is not scalable and will not deliver services to people globally in an efficient matter.
-- A centralized approach for delivering cloud services provides efficiencies *only* to the providers of these services.
+# ThreeFold Grid 
 
 ## Decentralized Cloud
 
-Decentralized cloud is a cloud that is provided by people, for people.
+![](./img/cloud2.png)
 
-- To scale out and deliver the exponential increase in required data processing and storage capabilities, a new model is needed – a model in which people own servers and share these servers out to other people to use.
-- This should be possible for individual people and companies. By many, for everyone.
-- ThreeFold Tech is building the technology to do this and the ThreeFold Foundation is promoting and marketing the ThreeFold Grid, [the the largest peer-to-peer grid on the planet](https://threefold.io/).
+The Internet started in the last century as a sharing mechanism by people, for people. As described below in [the centralized cloud section](#centralized-cloud), somehow it morphed into an oligopolistic market where a few companies own and rule it all.
+
+This is not in line with the original intention of the Internet or what the Internet was all about. An increasing number of people are realizing that the current delivery model for cloud services is not scalable and will not deliver services to people globally in an efficient matter. A centralized approach for delivering cloud services provides efficiencies only to the providers of these services.
+
+Decentralized cloud is a cloud that is provided by people, for people. To scale out and deliver the exponential increase in required data processing and storage capabilities, a new model is needed – a model in which people own servers and share these servers out to other people to use. This should be possible for individual people and companies. By many, for everyone.  ThreeFold Tech is building the technology to do this and the ThreeFold Foundation is promoting and marketing the TF Grid, [the the largest peer-to-peer grid on the planet](https://threefold.io/)
+
+The opportunity is huge, as the cloud market is expanding at an exponential rate. Gartner forecasts the market turnover to be 350 Billion USD by the end of 2022.
 
 ## The ThreeFold Grid 
 
 The ThreeFold Grid is the largest active decentralized cloud in the world.
 
-- People around the world plug in computers (servers) to add capacity.
-- The data inside these servers is owned by the people who put the data there, not by large corporations who then sell and exploit it for their own benefit.
-- Then developers build solutions and end users come to experience them.
-
-**The ThreeFold Grid is the foundation. Without it, the ThreeFold Now Marketplace would not be possible. Without it, we cannot reclaim our digital freedom.**
+There is way too much to fit here! Check this link to find a lot of information: [ThreeFold Decentralized Grid](https://cloud.threefold.io)
 
 ![](./img/cloud_comparison.png)
-
-*If you'd like to read more about the ThreeFold Grid, please visit the [website](https://threefold.io) or [wikis](https://info.threefold.io).*
-
-<!--
 
 ## Centralized Cloud
 
@@ -64,9 +50,10 @@ The public cloud market is dominated by a few companies that own the majority of
 | **Total Market** | **196.7** | **227.8** | **266.4** | **308.5** | **354.6** | 
 
 
-
+<!--
 
 # ThreeFold Grid 
+
 
 ![](./img/cloud2.png)
 

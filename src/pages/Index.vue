@@ -5,16 +5,14 @@
         <div class="flex flex-col items-center mb-2 text-ui-primary">
           <Logo :width="30" />
           <h2 class="text-3xl text-6xl font-black tracking-tighter border-none">
-            THREEFOLD NOW
+            THREEFOLD
           </h2>
         </div>
         <h1 class="text-4xl text-center lg:text-5xl">
-          The Internet of Tomorrow, Available Today
+          Build + Deploy + Run = ONE Click
         </h1>
         <p class="text-xl font-medium text-center">
-          A marketplace of peer-to-peer solutions to decentralize our lives!
-          <br>
-          Currently in demo mode running on testnet.
+          Autonomous and decentralized storage and compute owned by everyone, everywhere !
           <br>
         </p>
 

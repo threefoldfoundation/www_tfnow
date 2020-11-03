@@ -1,50 +1,59 @@
-# ThreeFold TFNOW
+# Gridsome X ThreeFold
 
-## How to run a development version locally
+- Any change to the content here should auto-deploy
+- All changes to the content can be seen under this link
 
-### Install
+[./docs](./docs)
 
-- Ubuntu :  `./install.sh`
-- MacosX : `./install_mac.sh`
 
-### Run
-- Quick Run : `./run`
+### to get started
 
-### build a static website (production only)
+- install npm & yarn
 
-Run `./build.sh` 
+To install yarn on ubuntu,
 
-## Where is all the content ?
+```
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+apt-get -y update && apt install yarn
+```
+- git clone this repo
+- go into the repo and run ```install_gridsome.sh``` if not done yet
+- go into the repo and run ```install.sh``` which will make sure you have the node packages in your repo
+
+### Where is all the content ?
 
 - It is under the direcory [content/docs](content/docs)
 - All files are markdown (.md) format
 
-## Editing
+### Where are all the images ?
 
-- Always use `-` instead of `_` in naming files and directories 
-- Create a new folder for each item you want to add to `tfnow` with the naming convention in the previous point
-- inside each directory put
-    - `index.md` contains markdown
-    - `img` directory with images for that item
-- referring to img `crystaltwin.png` from `index.md` of `crystaltwin` item can be done simpy by `![](./img/crystaltwin.png)`
-- **Editing md files**
+- Under the docs directory, every service has its own folder and own set of images
+- To use an image for crystal twin, naviagte to crystal twin's folder and place the image as below,
 
-  - All files start with this piece of code, this is meant to control navigation into different sections defined in the sidebar menu.
+```
+![](./crystaltwin.png)
 
-    ```
-    ---
-    description: ''
-    sidebar: 'docs'
-    prev: '/docs/wiki-publisher/'
-    next: '/docs/digitalme/'
-    ---
+```
+### Editing md files
 
-
+- All files start with this piece of code, this is meant to control navigation into different sections defined in the sidebar menu.
+```
+---
+description: ''
+sidebar: 'docs'
+prev: '/docs/wiki-publisher/'
+next: '/docs/digitalme/'
+---
+```
 ## You want to go deeper ?
 
-Read more [here](https://docc-theme.netlify.app)
+![https://docc-theme.netlify.app](https://docc-theme.netlify.app)
 
-- 
-## Create new project using `threefold gridsome-docc` 
 
-Run `gridsome create app https://github.com/threefoldfoundation/gridsome-docc`
+to install a new version of this
+
+```
+gridsome create threefold-now https://github.com/mrcrmn/docc
+```
+
