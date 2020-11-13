@@ -2,7 +2,7 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/decentralized-office-intro/'
-next: '/docs/dmcollab/'
+next: '/docs/onlyoffice/'
 ---
 
 # Project Management

@@ -1,21 +1,21 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/dmcircles/'
+prev: '/docs/onlyoffice/'
 next: '/docs/mattermost/'
 ---
 
-# Office Tools
+# Collaborative Docs
 
 ![](./img/what_is_cryptpad.png)
 
-*You can access the Office Tools solution on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/cryptpad). Please note that the marketplace is currently running on testnet.*
+*You can access the Collaborative Docs solution on the ThreeFold Now Marketplace directly [here](https://marketplace.threefold.io/marketplace/#/solutions/cryptpad). Please note that the marketplace is currently running on testnet.*
 
-Nearly everyone that uses a computer for work is using some type of Office solution whether it be through Microsoft or Google or both. So this solution was a no-brainer.
+Collaborating on documents in real-time is incredible important in today's world. So this solution was a no-brainer.
 
 ## Open Source Solution: CryptPad
 
-Many alternatives are available to the the dominant office tools from Microsoft and Google, but ThreeFold endorses and supports the [CryptPad.fr](https://cryptpad.fr) open-source CryptPad project – a private-by-design alternative.
+Many alternatives are available to the the dominant doc collaboration tools from Microsoft and Google, but ThreeFold endorses and supports the [CryptPad.fr](https://cryptpad.fr) open-source CryptPad project – a private-by-design alternative.
 
 ## Why Cryptpad?
 
@@ -63,7 +63,7 @@ This is an alternative to Word and Google Docs. It allows you to create document
 
 ## Tutorial: How to Deploy
 
-- First, visit [the Office Tools solution](https://marketplace.threefold.io/marketplace/#/solutions/cryptpad) live on the marketplace
+- First, visit [the Collaborative Docs solution](https://marketplace.threefold.io/marketplace/#/solutions/cryptpad) live on the marketplace
 - You'll be asked to enter a solution name – this can be anything and is simply to identify your specific deployment and will also be used in the deployment's unique URL
 - Once you enter this information, all you need to do is wait for the solution to deploy. You can keep an eye on the screen for progress.
 - Upon completion, you'll see a link to view your solution live and it will remain live in your My Workloads section for three hours.

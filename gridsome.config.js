@@ -64,6 +64,7 @@ module.exports = {
             items: [
               '/docs/decentralized-office-intro/',
               '/docs/dmcircles/',
+              '/docs/onlyoffice/',
               '/docs/dmcollab/',
               '/docs/mattermost/',
               '/docs/dmcustomers/',

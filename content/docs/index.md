@@ -16,6 +16,12 @@ Many more solutions will be added in the future. ThreeFold Now is a marketplace 
 
 ![](./index/img/demo_site_overview.png)
 
-*Please note that ThreeFold Now is currently operating in demo mode on testnet. Your deployments will be cancelled after three hours automatically.*
+# Current Status
 
-*The tools still require some technical know-how, but 1. we have tutorials tied to each live solution and 2. are very happy with progress until today. We firmly believe there is nothing else out there like ThreeFold Now.*
+Please note that the ThreeFold Now Marketplace is currently operating in demo mode on testnet. This means your deployments will be cancelled after three hours automatically. We are working to get some of the first solutions live on mainnet by December.
+
+The tools still require some technical know-how, but:
+
+1. We have tutorials tied to each live solution
+2. We are very happy with progress until today
+3. We firmly believe there is nothing else out there like ThreeFold Now.
