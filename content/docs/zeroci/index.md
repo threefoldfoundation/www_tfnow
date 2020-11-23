@@ -9,7 +9,9 @@ next: '/docs/serverless/'
 
 *Note: This page is being worked on and will be expanded.*
 
-![](./img/zeroci.png) 
+![](./img/zeroci.png)
+
+Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
 
 ## What is ZeroCI?
 
@@ -21,12 +23,8 @@ next: '/docs/serverless/'
 
 ## Why use ZeroCI?
 
-Coming soon ...
+ZeroCI is a continuous integration tool for developers looking to build on top of the decentralized ThreeFold Grid.
 
-## How to Deploy
+## Tutorial: How to Deploy
 
 Coming soon – the Continuous Integration Tool is not yet available on the marketplace.
-
-## FAQs
-
-Coming soon ...

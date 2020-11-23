@@ -9,4 +9,4 @@ next: '/docs/gitea/'
 
 ## Decentralized Developer solutions support developers looking to build in a decentralized way
 
-[Get help here from Weynand or Zaibon.]
+Coming soon ...
