@@ -12,7 +12,7 @@ prev: '/docs/why-threefold-now/'
 - You'll see solutions organized into various categories.
 - Simply choose the solution you want to launch from the menu.
 - You'll need to log in through ThreeFold Connect, an authenticator for the ThreeFold Now Marketplace.
-- You can find more on ThreeFold Connect [here](https://manual.threefold.io/#/3botconnect_install). <<< CHANGE THIS!
+- You can find more on ThreeFold Connect [here](https://manual.threefold.io/#/3botconnect_install).
 
 ## Next, use the guided setup to create your solution
 
