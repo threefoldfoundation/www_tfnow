@@ -2,7 +2,7 @@
 description: ''
 sidebar: 'docs'
 prev: '/docs/dmcircles/'
-next: '/docs/dmcollab/'
+next: '/docs/file-browser/'
 ---
 
 # Office Tools
@@ -24,7 +24,7 @@ OnlyOffice is a private and secure alternative to the tools we use today. Beyond
 - Easy customization and administration
 - & more
 
-## How to Deploy
+## Tutorial: How to Deploy
 
 Coming soon – the Office Tools solution is not yet available on the marketplace.
 
