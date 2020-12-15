@@ -27,6 +27,10 @@ As File Browser states on their website, "we focus on doing one thing, but doing
 
 And by authenticating through ThreeFold Connect, you'll be able to access your files anywhere.
 
+## Integration with Office Tools
+
+We will be integrating the Office Tools solution as well so that you can store and edit documents within the same experience.
+
 ## How to Deploy
 
 Coming soon – the File Browser solution is not yet available on the marketplace.
