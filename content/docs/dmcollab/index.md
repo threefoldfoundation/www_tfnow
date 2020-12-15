@@ -1,7 +1,7 @@
 ---
 description: ''
 sidebar: 'docs'
-prev: '/docs/onlyoffice/'
+prev: '/docs/file-browser/'
 next: '/docs/mattermost/'
 ---
 

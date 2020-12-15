@@ -31,3 +31,7 @@ Coming ...
 
 Coming ...
 
+## Tutorial: How to Deploy
+
+Coming soon – the Comments Widget is not yet available on the marketplace.
+

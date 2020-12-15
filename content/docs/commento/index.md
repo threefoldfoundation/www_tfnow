@@ -29,7 +29,7 @@ Commento does come with a cost, but as they say on their site, "Services like Di
 
 ![](./img/commento2.png)
 
-## How to Deploy
+## Tutorial: How to Deploy
 
 Coming soon – the Comments Widget is not yet available on the marketplace.
 
