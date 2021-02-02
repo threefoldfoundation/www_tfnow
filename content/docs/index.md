@@ -12,7 +12,7 @@ Today, ThreeFold Now provides a marketplace consisting of ready-made decentraliz
 
 The applications on ThreeFold Now can be deployed (launched or created) in a matter of minutes by creating an account of ThreeFold's edge-Virtual Data Center (TF eVDC). Click [here](www.vdc.threefold.io) to find out more about TF eVDC. Some of the first apps on the marketplace include office and collaboration tools, a project management solution, forum, video hosting, and video conferencing. More solutions will be added in the future.
 
-![](./index/img/demo_site_overview.png)
+![](./index/img/tfnow.png)
 
 **- ThreeFold Now, available today on TF eVDC (testnet). Get an eVDC  via [eVDC Deployer](https://vdc.testnet.grid.tf).**  
 
