@@ -7,12 +7,24 @@ prev: '/docs/why-threefold-now/'
 
 # How to use ThreeFold Now
 
-## First, visit the [ThreeFold Now Marketplace](https://marketplace.threefold.io)
+![](./img/tfnow.png)
 
-- You'll see solutions organized into various categories.
-- Simply choose the solution you want to launch from the menu.
-- You'll need to log in through ThreeFold Connect, an authenticator for the ThreeFold Now Marketplace.
-- You can find more on ThreeFold Connect [here](https://manual.threefold.io/#/3botconnect_install).
+## Prerequisites
+
+To deploy a solution on TF NOW Marketplace, there are some pre-requisites that need to be done:
+
+1. Get ThreeFold Connect App; ThreeFold Connect is a mobile app that facilitate you with your own 3Bot Wallet where and 3Bot ID; your digital identity on top of the ThreeFold Grid. Click [here](https://manual.threefold.io/#/threefold_connect_install) to read more on how to get a TF Connect app on  the manual.
+
+2. Get and store TFT into your TF Connect Wallet to reserve IT Capacity and pay for your workload on top of the TF Grid. Click [here](hhttps://manual2.threefold.io/#/mainnet_gettft) to read more on how to get and store TFT on the manual.
+
+3. Deploy an eVDC (testnet, mainnet coming soon). ThreeFold Now Marketplace is running as one of the main features of [TF eVDC](vdc.threefold.io). You would need to create an eVDC account to deploy and manage your TF Now solutions. Click [here](https://manual2.threefold.io/#/evdc_deployer) to read more on how to get and store TFT on the manual.
+
+## On your eVDC Admin Panel, you can now deploy a TF Now Marketplace Solution.
+
+- After an eVDC is successfully deployed, you'll need to log in through ThreeFold Connect, an authenticator for the eVDC.
+- On your eVDC Admin Panel, you will see solutions organized into various categories.
+- Simply choose the solution you want to deploy from the admin panel screen.
+.
 
 ## Next, use the guided setup to create your solution
 
