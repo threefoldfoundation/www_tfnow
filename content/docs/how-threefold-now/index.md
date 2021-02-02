@@ -7,7 +7,7 @@ prev: '/docs/why-threefold-now/'
 
 # How to use ThreeFold Now
 
-![](tfnow.png)
+![](./img/tfnow.png)
 
 ## Prerequisites
 
